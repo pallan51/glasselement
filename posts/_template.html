@@ -1,0 +1,196 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  THE GLASS ELEMENT — New Post Template                      ║
+  ║                                                              ║
+  ║  To create a new blog post:                                  ║
+  ║    1. Copy this file and rename it (e.g. dolomites.html)     ║
+  ║    2. Replace all EDIT markers below with your content       ║
+  ║    3. Add a journey row to your Google Sheet (or inventory)  ║
+  ║       with link = "posts/dolomites.html"                     ║
+  ║    4. Add a <url> entry to sitemap.xml                       ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="../images/favicon-48x48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../images/favicon-192x192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../images/apple-touch-icon.png">
+    <link rel="manifest" href="../site.webmanifest">
+
+    <!-- EDIT: SEO title — follow format: "Post Title — Topic Keywords | The Glass Element" -->
+    <title>YOUR POST TITLE — KEYWORDS | The Glass Element</title>
+    <!-- EDIT: 150-160 character description with keywords -->
+    <meta name="description" content="YOUR POST DESCRIPTION WITH KEYWORDS HERE.">
+    <!-- EDIT: comma-separated keywords relevant to the post -->
+    <meta name="keywords" content="keyword1, keyword2, keyword3, The Glass Element">
+    <meta name="author" content="The Glass Element">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <!-- EDIT: change the filename -->
+    <link rel="canonical" href="https://www.theglasselement.com/posts/YOUR-FILENAME.html">
+
+    <!-- EDIT: Open Graph (for sharing on social media) -->
+    <meta property="og:site_name" content="The Glass Element">
+    <meta property="og:title" content="YOUR POST TITLE">
+    <meta property="og:description" content="SHORT DESCRIPTION FOR SOCIAL SHARES.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.theglasselement.com/posts/YOUR-FILENAME.html">
+    <!-- EDIT: use your post's hero image URL -->
+    <meta property="og:image" content="https://www.theglasselement.com/images/YOUR-IMAGE.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <!-- EDIT: publish date in ISO format -->
+    <meta property="article:published_time" content="2026-01-01T00:00:00Z">
+    <meta property="article:author" content="The Glass Element">
+    <meta property="article:section" content="Field Journeys">
+    <!-- EDIT: article tags -->
+    <meta property="article:tag" content="Tag1">
+    <meta property="article:tag" content="Tag2">
+
+    <!-- EDIT: Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="YOUR POST TITLE">
+    <meta name="twitter:description" content="SHORT DESCRIPTION.">
+    <meta name="twitter:image" content="https://www.theglasselement.com/images/YOUR-IMAGE.png">
+
+    <!-- Fonts & CSS (don't edit) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/post.css">
+
+    <!-- EDIT: Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "YOUR POST TITLE",
+      "description": "YOUR POST DESCRIPTION.",
+      "image": "https://www.theglasselement.com/images/YOUR-IMAGE.png",
+      "datePublished": "2026-01-01",
+      "dateModified": "2026-01-01",
+      "author": {
+        "@type": "Organization",
+        "name": "The Glass Element",
+        "url": "https://www.theglasselement.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Glass Element",
+        "url": "https://www.theglasselement.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.theglasselement.com/images/explorer_hero.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.theglasselement.com/posts/YOUR-FILENAME.html"
+      },
+      "keywords": ["keyword1", "keyword2", "keyword3"]
+    }
+    </script>
+
+    <!-- EDIT: Breadcrumb Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.theglasselement.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Field Journeys", "item": "https://www.theglasselement.com/#journeys" },
+        { "@type": "ListItem", "position": 3, "name": "YOUR POST TITLE", "item": "https://www.theglasselement.com/posts/YOUR-FILENAME.html" }
+      ]
+    }
+    </script>
+</head>
+<body>
+
+    <div class="ambient-background"></div>
+
+    <header>
+        <div class="nav-container">
+            <a href="../index.html" class="logo" aria-label="The Glass Element homepage">The Glass Element</a>
+            <nav class="nav-links" aria-label="Main navigation">
+                <a href="../index.html#eyewear">Eyewear</a>
+                <a href="../index.html#vault">Camera Vault</a>
+                <a href="../index.html#journeys">Journeys</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="post-wrapper">
+        <article class="post-container" itemscope itemtype="https://schema.org/Article">
+
+            <nav aria-label="Breadcrumb" class="breadcrumb">
+                <a href="../index.html">Home</a> <span aria-hidden="true">›</span>
+                <a href="../index.html#journeys">Journeys</a> <span aria-hidden="true">›</span>
+                <!-- EDIT: short name for breadcrumb -->
+                <span>Your Post</span>
+            </nav>
+
+            <!-- EDIT: Your post title -->
+            <h1 itemprop="headline">Your Post Title</h1>
+            <!-- EDIT: Date and category -->
+            <p class="post-meta">
+                <time datetime="2026-01" itemprop="datePublished">Month Year</time> · Field Report
+            </p>
+
+            <!-- EDIT: Hero image -->
+            <figure>
+                <img src="../images/YOUR-IMAGE.png" alt="DESCRIBE YOUR IMAGE WITH KEYWORDS" width="1920" height="1080" loading="eager" itemprop="image">
+            </figure>
+
+            <div itemprop="articleBody">
+                <!-- EDIT: Your story -->
+                <p>
+                Write your first paragraph here.
+                </p>
+
+                <p>
+                Another paragraph. Use <strong>bold</strong> for product names and <em>italic</em> for emphasis.
+                </p>
+
+                <!-- Optional: subheading -->
+                <h2>A Section Heading</h2>
+
+                <p>
+                More content under the subheading.
+                </p>
+
+                <!-- Optional: image with caption -->
+                <!--
+                <figure>
+                    <img src="../images/your-photo.png" alt="Descriptive alt text with keywords" width="1920" height="1080" loading="lazy">
+                    <figcaption>Caption for the photo.</figcaption>
+                </figure>
+                -->
+
+                <!-- Optional: blockquote -->
+                <!--
+                <blockquote>
+                <p>A memorable quote or thought.</p>
+                </blockquote>
+                -->
+            </div>
+
+        </article>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p class="footer-logo">The Glass Element</p>
+            <p class="footer-content">Curating the world through rare optics and exotic mechanics.</p>
+            <p class="footer-copy">&copy; 2026 The Glass Element. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>

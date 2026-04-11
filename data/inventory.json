@@ -1,0 +1,79 @@
+{
+  "eyewear": [
+    {
+      "id": "e1",
+      "brand": "Eyevan",
+      "model": "Racing Team Sun",
+      "description": "A vintage-inspired racing team sunglass from Eyevan. Featuring deep tones and exceptional construction, perfect for long drives or exploring the coast.",
+      "price": "$550",
+      "image": "images/eyevan_bkk.png",
+      "tag": "Vintage Tokyo"
+    },
+    {
+      "id": "e2",
+      "brand": "Kaneko Optical",
+      "model": "United Arrows Collab",
+      "description": "A stunning collaboration between Kaneko Optical and United Arrows. Meticulously handcrafted acetate offering a rich texture and timeless silhouette.",
+      "price": "$480",
+      "image": "images/kaneko_bkk.png",
+      "tag": "Handcrafted"
+    },
+    {
+      "id": "e3",
+      "brand": "Masunaga",
+      "model": "Optical Classic",
+      "description": "Classic optical frames from Masunaga. Hand-polished acetate combined with titanium details. Refined, functional, and built to last.",
+      "price": "$520",
+      "image": "images/masunaga_eye_bkk.png",
+      "tag": "Classic Fukui"
+    },
+    {
+      "id": "e4",
+      "brand": "Masunaga",
+      "model": "Sun Classic",
+      "description": "Earthy and bold, these Masunaga sunglasses are crafted with unparalleled precision. The perfect companion for bright days and exotic landscapes.",
+      "price": "$560",
+      "image": "images/masunaga_sun_bkk.png",
+      "tag": "Heritage Sun"
+    },
+    {
+      "id": "e5",
+      "brand": "Oliver Peoples",
+      "model": "Kin",
+      "description": "A rare masterpiece in optical design. The Oliver Peoples Kin features exquisite filigree details on a refined titanium chassis. Impeccable balance and timeless sophistication.",
+      "price": "$620",
+      "image": "images/oliver_peoples_bkk.png",
+      "tag": "Archive Classic"
+    }
+  ],
+  "cameras": [
+    {
+      "id": "c1",
+      "brand": "Canon",
+      "model": "M200 (JP Olympics Edition)",
+      "description": "An incredibly rare Japan-only Olympics edition of the EOS M200. Blending pure collectability with modern mirrorless capabilities. Field-tested in Old Bangkok.",
+      "price": "$1,450",
+      "image": "images/canon_m200_bkk.png",
+      "tag": "Rare Mirrorless"
+    },
+    {
+      "id": "c2",
+      "brand": "Pentax",
+      "model": "K-S1",
+      "description": "A modern classic boasting a distinctly futuristic illumination interface. Compact, highly capable, and meticulously preserved. Traveled through the ruins of Ayutthaya.",
+      "price": "$650",
+      "image": "images/pentax_ks1_bkk.png",
+      "tag": "Mint DSLR"
+    }
+  ],
+  "journeys": [
+    {
+      "id": "j1",
+      "title": "Chasing Shadows in Ayutthaya",
+      "description": "Monsoon heat, ancient ruins, and the Canon M200. Pushing rare exotic mechanics to their limits alongside archival Oliver Peoples frames.",
+      "date": "April 2026",
+      "image": "images/hero_thailand.png",
+      "tag": "Field Report"
+    }
+  ]
+}
