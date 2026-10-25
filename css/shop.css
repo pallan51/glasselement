@@ -49,3 +49,5 @@
  body:has(.mobile-buy){padding-bottom:80px}
  .product-faq summary{font-size:13px}.prose h1{font-size:37px}
 }
+
+.mobile-product-summary{display:none}@media(max-width:600px){.mobile-product-summary{display:block;margin:8px 0 18px}.mobile-product-summary p{font:23px/1.2 var(--serif);margin:0 0 6px}}

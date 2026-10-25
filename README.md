@@ -49,3 +49,7 @@ The local server serves the homepage and collection directory URLs on port 8080.
 ## IndexNow discovery
 
 After publishing changed stock pages, run node scripts/submit-indexnow.mjs to notify participating search engines. The public ownership key is in data/search-config.json and its matching root .txt file; keep both. A 200 response confirms receipt, and 202 means receipt with key validation pending. Neither guarantees crawling or indexing. Google sitemap submission is handled separately in Search Console.
+
+## Search setup completed on 25 October 2026
+
+The owner’s Google Search Console URL-prefix property was verified through the generated homepage meta tag. Google processed sitemap.xml successfully and reported 43 discovered pages. The homepage was already indexed; a refresh request was initiated after publication. IndexNow received 42 updated URLs with HTTP 202 (key validation pending). These are submission/discovery results, not promises of rankings or sales.
