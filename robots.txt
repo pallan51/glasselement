@@ -1,6 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /data/
-Disallow: /serve.ps1
-
-Sitemap: https://www.theglasselement.com/sitemap.xml
+Sitemap: https://theglasselement.com/sitemap.xml

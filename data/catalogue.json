@@ -1,0 +1,165 @@
+[
+  {
+    "id": "eyevan-racing-team-sun",
+    "category": "eyewear",
+    "brand": "Eyevan",
+    "name": "Racing Team Sun",
+    "price": 350,
+    "description": "Amber-toned frames with rose-tinted lenses and a distinctive metal bridge. Explore five original photographs for a closer look at the frame and detailing.",
+    "photos": [
+      "images/eyevan racing team sun1.JPG",
+      "images/eyevan racing team sun2.JPG",
+      "images/eyevan racing team sun3.JPG",
+      "images/eyevan racing team sun4.JPG",
+      "images/eyevan racing team sun5.JPG"
+    ],
+    "photoKind": "original",
+    "details": [
+      [
+        "Style",
+        "Aviator sunglasses"
+      ],
+      [
+        "Frame colour",
+        "Amber tones"
+      ],
+      [
+        "Lens appearance",
+        "Rose tint"
+      ]
+    ],
+    "status": "available"
+  },
+  {
+    "id": "kaneko-optical-united-arrows",
+    "category": "eyewear",
+    "brand": "Kaneko Optical",
+    "name": "United Arrows collaboration",
+    "price": 200,
+    "description": "Kaneko Optical × United Arrows eyewear. Four original photographs show the frame from different angles; ask for dimensions and close-ups of the model markings before ordering.",
+    "photos": [
+      "images/kaneko ua1.JPG",
+      "images/kaneko ua2.JPG",
+      "images/kaneko ua3.JPG",
+      "images/kaneko ua4.JPG"
+    ],
+    "photoKind": "original",
+    "details": [
+      [
+        "Collaboration",
+        "United Arrows"
+      ]
+    ],
+    "status": "available"
+  },
+  {
+    "id": "masunaga-optical",
+    "category": "eyewear",
+    "brand": "Masunaga",
+    "name": "Optical frames",
+    "price": 280,
+    "description": "Masunaga optical frames. Explore four original photographs, then get in touch to confirm the model code, frame measurements and lens details.",
+    "photos": [
+      "images/masunaga eye1.JPG",
+      "images/masunaga eye2.JPG",
+      "images/masunaga eye3.JPG",
+      "images/masunaga eye4.JPG"
+    ],
+    "photoKind": "original",
+    "details": [
+      [
+        "Type",
+        "Optical frames"
+      ]
+    ],
+    "status": "available"
+  },
+  {
+    "id": "masunaga-sunglasses",
+    "category": "eyewear",
+    "brand": "Masunaga",
+    "name": "Sunglasses",
+    "price": 280,
+    "description": "Masunaga sunglasses, shown in four original photographs. Ask for the model markings, fit measurements and a current condition check.",
+    "photos": [
+      "images/masunaga sun1.JPG",
+      "images/masunaga sun2.JPG",
+      "images/masunaga sun3.JPG",
+      "images/masunaga sun4.JPG"
+    ],
+    "photoKind": "original",
+    "details": [
+      [
+        "Type",
+        "Sunglasses"
+      ]
+    ],
+    "status": "available"
+  },
+  {
+    "id": "oliver-peoples-kin",
+    "category": "eyewear",
+    "brand": "Oliver Peoples",
+    "name": "Kin",
+    "price": 250,
+    "description": "Oliver Peoples Kin eyewear. Two original photographs are available to inspect; enquire for frame dimensions, lens details and any additional close-ups you need.",
+    "photos": [
+      "images/oliver peoples kin - 1.jpg",
+      "images/oliver peoples kin - 2.jpg"
+    ],
+    "photoKind": "original",
+    "details": [
+      [
+        "Model",
+        "Kin"
+      ]
+    ],
+    "status": "available"
+  },
+  {
+    "id": "canon-eos-m200-japan-edition",
+    "category": "cameras",
+    "brand": "Canon",
+    "name": "EOS M200 · Japan edition",
+    "price": 690,
+    "description": "The Japan-edition EOS M200 from the collection. Enquire for photographs of the actual camera, edition markings, menu language and the exact accessories included.",
+    "photos": [
+      "images/canon_m200_bkk.png"
+    ],
+    "photoKind": "illustration",
+    "details": [
+      [
+        "Model",
+        "EOS M200"
+      ],
+      [
+        "Type",
+        "Mirrorless camera"
+      ]
+    ],
+    "status": "available"
+  },
+  {
+    "id": "pentax-k-s1",
+    "category": "cameras",
+    "brand": "Pentax",
+    "name": "K-S1",
+    "price": 390,
+    "description": "The compact Pentax K-S1 DSLR from the collection. Get in touch for current photographs, a function and condition check, and confirmation of the battery, charger and other accessories.",
+    "photos": [
+      "images/pentax_ks1_bkk.png"
+    ],
+    "photoKind": "illustration",
+    "details": [
+      [
+        "Model",
+        "K-S1"
+      ],
+      [
+        "Type",
+        "DSLR camera"
+      ]
+    ],
+    "status": "available"
+  }
+]

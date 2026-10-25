@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.theglasselement.com/</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.theglasselement.com/posts/hokkaido.html</loc>
-    <lastmod>2026-02-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <url><loc>https://theglasselement.com/</loc></url>
+  <url><loc>https://theglasselement.com/items/eyevan-racing-team-sun.html</loc></url>
+  <url><loc>https://theglasselement.com/items/kaneko-optical-united-arrows.html</loc></url>
+  <url><loc>https://theglasselement.com/items/masunaga-optical.html</loc></url>
+  <url><loc>https://theglasselement.com/items/masunaga-sunglasses.html</loc></url>
+  <url><loc>https://theglasselement.com/items/oliver-peoples-kin.html</loc></url>
+  <url><loc>https://theglasselement.com/items/canon-eos-m200-japan-edition.html</loc></url>
+  <url><loc>https://theglasselement.com/items/pentax-k-s1.html</loc></url>
+  <url><loc>https://theglasselement.com/posts/ayutthaya-field-test.html</loc></url>
 </urlset>
