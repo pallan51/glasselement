@@ -117,16 +117,72 @@
     "status": "available"
   },
   {
+    "id": "vuarnet-vl1602-0001",
+    "category": "eyewear",
+    "brand": "Vuarnet",
+    "name": "VL1602 0001 sunglasses",
+    "price": 2610,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/43129544004",
+    "shopeePrice": 2610,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/vuarnet-vl1602-0001.jpg"
+    ],
+    "description": "Vuarnet VL1602 0001 sunglasses. Sunglasses. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Sunglasses"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/sg-11134201-823pa-mp2jek300gld03"
+  },
+  {
+    "id": "canon-eos-6d-camouflage",
+    "category": "cameras",
+    "brand": "Canon",
+    "name": "EOS 6D · camouflage wrap",
+    "price": 6210,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/45169829567",
+    "shopeePrice": 6210,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/canon-eos-6d-camouflage.jpg"
+    ],
+    "description": "Canon EOS 6D · camouflage wrap. Camouflage-wrapped body. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Camouflage-wrapped body"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztk-muoqp4rw9xxm13"
+  },
+  {
     "id": "canon-eos-m200-japan-edition",
     "category": "cameras",
     "brand": "Canon",
     "name": "EOS M200 · Japan edition",
     "price": 690,
-    "description": "The Japan-edition EOS M200 from the collection. Enquire for photographs of the actual camera, edition markings, menu language and the exact accessories included.",
+    "description": "Canon EOS M200 · Japan edition. Shown in a photograph from our Shopee listing. Confirm the selected variant, current condition and included accessories before buying.",
     "photos": [
-      "images/canon_m200_bkk.png"
+      "images/shopee/canon-eos-m200-japan-edition.jpg"
     ],
-    "photoKind": "illustration",
+    "photoKind": "marketplace",
     "details": [
       [
         "Model",
@@ -137,7 +193,293 @@
         "Mirrorless camera"
       ]
     ],
-    "status": "available"
+    "status": "available",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/52754835000",
+    "shopeePrice": 16110,
+    "sourceChecked": "2026-10-25",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mjky0yqkym0w25"
+  },
+  {
+    "id": "canon-eos-m6-parts",
+    "category": "cameras",
+    "brand": "Canon",
+    "name": "EOS M6 · damaged / for parts",
+    "price": 3510,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/41528102974",
+    "shopeePrice": 3510,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/canon-eos-m6-parts.jpg"
+    ],
+    "description": "Canon EOS M6 · damaged / for parts. Damaged / for parts. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Damaged / for parts"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "itemCondition": "DamagedCondition",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mjky0yqixkhu75"
+  },
+  {
+    "id": "fujifilm-f200exr",
+    "category": "cameras",
+    "brand": "Fujifilm",
+    "name": "FinePix F200EXR",
+    "price": 5310,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/40435445078",
+    "shopeePrice": 5310,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/fujifilm-f200exr.jpg"
+    ],
+    "description": "Fujifilm FinePix F200EXR. Compact camera. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Compact camera"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztq-muoqvi2kzhmt82"
+  },
+  {
+    "id": "fujifilm-x-e2s",
+    "category": "cameras",
+    "brand": "Fujifilm",
+    "name": "X-E2S with 25mm f/1.8 AF",
+    "price": 16875,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/53963549498",
+    "shopeePrice": 16875,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/fujifilm-x-e2s.jpg"
+    ],
+    "description": "Fujifilm X-E2S with 25mm f/1.8 AF. Listed with a 25mm f/1.8 AF lens. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Listed with a 25mm f/1.8 AF lens"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mqdgw9c342dp34"
+  },
+  {
+    "id": "fujifilm-x-m1-broken",
+    "category": "cameras",
+    "brand": "Fujifilm",
+    "name": "X-M1 · broken",
+    "price": 4410,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/53054820520",
+    "shopeePrice": 4410,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/fujifilm-x-m1-broken.jpg"
+    ],
+    "description": "Fujifilm X-M1 · broken. Broken / for repair. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Broken / for repair"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "itemCondition": "DamagedCondition",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mjky0yqiry825f"
+  },
+  {
+    "id": "fujifilm-x10",
+    "category": "cameras",
+    "brand": "Fujifilm",
+    "name": "X10 · EXR",
+    "price": 8549,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/48964138754",
+    "shopeePrice": 8549,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/fujifilm-x10.jpg"
+    ],
+    "description": "Fujifilm X10 · EXR. Compact camera. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Compact camera"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81zto-mqqb44tppyiq44"
+  },
+  {
+    "id": "olympus-e-pm2",
+    "category": "cameras",
+    "brand": "Olympus",
+    "name": "E-PM2 · PEN Mini",
+    "price": 3510,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/28680598297",
+    "shopeePrice": 3510,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/olympus-e-pm2.jpg"
+    ],
+    "description": "Olympus E-PM2 · PEN Mini. Mirrorless camera. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Mirrorless camera"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-7rasb-m7p8yuvisqhdcb"
+  },
+  {
+    "id": "pentax-k-3ii-limited-edition",
+    "category": "cameras",
+    "brand": "Pentax",
+    "name": "K-3 II · limited edition",
+    "price": 16191,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/47664389992",
+    "shopeePrice": 16191,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/pentax-k-3ii-limited-edition.jpg"
+    ],
+    "description": "Pentax K-3 II · limited edition. Limited edition. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Limited edition"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztq-mqvlatjgpypyb8"
+  },
+  {
+    "id": "pentax-k-70",
+    "category": "cameras",
+    "brand": "Pentax",
+    "name": "K-70 · upgraded solenoid",
+    "price": 11250,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/56514301287",
+    "shopeePrice": 11250,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/pentax-k-70.jpg"
+    ],
+    "description": "Pentax K-70 · upgraded solenoid. Listing describes an upgraded solenoid. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Listing describes an upgraded solenoid"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mquqm8qkf4eb27"
+  },
+  {
+    "id": "pentax-k-m-olive",
+    "category": "cameras",
+    "brand": "Pentax",
+    "name": "K-m · olive limited edition",
+    "price": 8991,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/47714387949",
+    "shopeePrice": 8991,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/pentax-k-m-olive.jpg"
+    ],
+    "description": "Pentax K-m · olive limited edition. Olive limited edition CCD camera. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Olive limited edition CCD camera"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mqvlatjgu6fab3"
+  },
+  {
+    "id": "pentax-k-r-red-yellow",
+    "category": "cameras",
+    "brand": "Pentax",
+    "name": "K-r · red and yellow",
+    "price": 5391,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/56119806563",
+    "shopeePrice": 5391,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/pentax-k-r-red-yellow.jpg"
+    ],
+    "description": "Pentax K-r · red and yellow. Red and yellow camera listing; confirm selected variant. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Red and yellow camera listing; confirm selected variant"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81zte-muoor75b3s3pd9"
   },
   {
     "id": "pentax-k-s1",
@@ -145,11 +487,11 @@
     "brand": "Pentax",
     "name": "K-S1",
     "price": 390,
-    "description": "The compact Pentax K-S1 DSLR from the collection. Get in touch for current photographs, a function and condition check, and confirmation of the battery, charger and other accessories.",
+    "description": "Pentax K-S1. Shown in a photograph from our Shopee listing. Confirm the selected variant, current condition and included accessories before buying.",
     "photos": [
-      "images/pentax_ks1_bkk.png"
+      "images/shopee/pentax-k-s1.jpg"
     ],
-    "photoKind": "illustration",
+    "photoKind": "marketplace",
     "details": [
       [
         "Model",
@@ -160,6 +502,403 @@
         "DSLR camera"
       ]
     ],
-    "status": "available"
+    "status": "available",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/40873645677",
+    "shopeePrice": 8991,
+    "sourceChecked": "2026-10-25",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztf-mfp2lsjhh1qm0c"
+  },
+  {
+    "id": "pentax-kp",
+    "category": "cameras",
+    "brand": "Pentax",
+    "name": "KP",
+    "price": 17991,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/49764392658",
+    "shopeePrice": 17991,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/pentax-kp.jpg"
+    ],
+    "description": "Pentax KP. DSLR body. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "DSLR body"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mqvlatjgwzk699"
+  },
+  {
+    "id": "pentax-k100d-two-camera-kit",
+    "category": "cameras",
+    "brand": "Pentax",
+    "name": "Two K100D bodies + 18–55mm & 35–80mm",
+    "price": 2925,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/47614353613",
+    "shopeePrice": 2925,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/pentax-k100d-two-camera-kit.jpg"
+    ],
+    "description": "Pentax Two K100D bodies + 18–55mm & 35–80mm. Two-body kit as listed; confirm individual body condition. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Two-body kit as listed; confirm individual body condition"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mqvlatjh179m5c"
+  },
+  {
+    "id": "pentax-zx-m",
+    "category": "cameras",
+    "brand": "Pentax",
+    "name": "ZX-M · film camera",
+    "price": 531,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/44273641986",
+    "shopeePrice": 531,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/pentax-zx-m.jpg"
+    ],
+    "description": "Pentax ZX-M · film camera. Film camera. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Film camera"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mfp2lsjbxl3hfc"
+  },
+  {
+    "id": "samsung-nx300",
+    "category": "cameras",
+    "brand": "Samsung",
+    "name": "NX300",
+    "price": 4491,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/56819812178",
+    "shopeePrice": 4491,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/samsung-nx300.jpg"
+    ],
+    "description": "Samsung NX300. Mirrorless camera. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Mirrorless camera"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztg-muor24gl2ioab2"
+  },
+  {
+    "id": "sony-nex-c3-kit",
+    "category": "cameras",
+    "brand": "Sony",
+    "name": "NEX-C3 with 18–55mm & accessories",
+    "price": 7191,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/49354770087",
+    "shopeePrice": 7191,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/sony-nex-c3-kit.jpg"
+    ],
+    "description": "Sony NEX-C3 with 18–55mm & accessories. Listed with zoom lens and accessories. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Listed with zoom lens and accessories"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mjky0ysgcgslbb"
+  },
+  {
+    "id": "voigtlander-ultramatic",
+    "category": "cameras",
+    "brand": "Voigtländer",
+    "name": "Ultramatic · film camera",
+    "price": 4491,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/55669238192",
+    "shopeePrice": 4491,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/voigtlander-ultramatic.jpg"
+    ],
+    "description": "Voigtländer Ultramatic · film camera. Film camera. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Film camera"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztm-muavi6zui2o1df"
+  },
+  {
+    "id": "zeiss-planar-50mm-f14-ze",
+    "category": "lenses",
+    "brand": "Carl Zeiss",
+    "name": "Planar 50mm f/1.4 ZE · Canon EF",
+    "price": 8990,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/45219877061",
+    "shopeePrice": 8990,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/zeiss-planar-50mm-f14-ze.jpg"
+    ],
+    "description": "Carl Zeiss Planar 50mm f/1.4 ZE · Canon EF. Canon EF mount (ZE). See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Canon EF mount (ZE)"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztn-muq5phpnv8jne4"
+  },
+  {
+    "id": "fujifilm-xc-35mm-f2",
+    "category": "lenses",
+    "brand": "Fujifilm",
+    "name": "Fujinon XC 35mm f/2",
+    "price": 8990,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/49119864154",
+    "shopeePrice": 8990,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/fujifilm-xc-35mm-f2.jpg"
+    ],
+    "description": "Fujifilm Fujinon XC 35mm f/2. XC 35mm f/2. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "XC 35mm f/2"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztp-muq5z22zw45c76"
+  },
+  {
+    "id": "fujifilm-wcl-x100-repair",
+    "category": "lenses",
+    "brand": "Fujifilm",
+    "name": "WCL-X100 · repair / cleaning required",
+    "price": 2025,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/54764288930",
+    "shopeePrice": 2025,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/fujifilm-wcl-x100-repair.jpg"
+    ],
+    "description": "Fujifilm WCL-X100 · repair / cleaning required. Repair / cleaning required. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Repair / cleaning required"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "itemCondition": "DamagedCondition",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mquqm8ql06ww17"
+  },
+  {
+    "id": "panasonic-lumix-425mm-f17",
+    "category": "lenses",
+    "brand": "Panasonic",
+    "name": "Lumix 42.5mm f/1.7 · image stabilized",
+    "price": 5571,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/56767546838",
+    "shopeePrice": 5571,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/panasonic-lumix-425mm-f17.jpg"
+    ],
+    "description": "Panasonic Lumix 42.5mm f/1.7 · image stabilized. 42.5mm f/1.7 lens. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "42.5mm f/1.7 lens"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztd-msuoqkkeez9h54"
+  },
+  {
+    "id": "samsung-nx-18-55-ois",
+    "category": "lenses",
+    "brand": "Samsung",
+    "name": "NX 18–55mm OIS",
+    "price": 3591,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/51563123090",
+    "shopeePrice": 3591,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/samsung-nx-18-55-ois.jpg"
+    ],
+    "description": "Samsung NX 18–55mm OIS. NX lens with OIS. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "NX lens with OIS"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztk-mq3lla8h0fm5b9"
+  },
+  {
+    "id": "sigma-30mm-f14-nikon",
+    "category": "lenses",
+    "brand": "Sigma",
+    "name": "30mm f/1.4 · Nikon F mount",
+    "price": 5310,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/42185265369",
+    "shopeePrice": 5310,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/sigma-30mm-f14-nikon.jpg"
+    ],
+    "description": "Sigma 30mm f/1.4 · Nikon F mount. Nikon F mount. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Nikon F mount"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztg-mughl7cd6akq70"
+  },
+  {
+    "id": "sony-minolta-a-mount-lens-set",
+    "category": "lenses",
+    "brand": "Sony / Minolta",
+    "name": "A-mount lens set · 75–300mm, 135mm & VCL-0437H",
+    "price": 1341,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/51506866724",
+    "shopeePrice": 1341,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/sony-minolta-a-mount-lens-set.jpg"
+    ],
+    "description": "Sony / Minolta A-mount lens set · 75–300mm, 135mm & VCL-0437H. Sold as the listed set; confirm exact components and compatibility. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "Sold as the listed set; confirm exact components and compatibility"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mlhp1xuosnwid2"
+  },
+  {
+    "id": "voigtlander-septon-50mm-f2",
+    "category": "lenses",
+    "brand": "Voigtländer",
+    "name": "Septon 50mm f/2",
+    "price": 8990,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/54719854182",
+    "shopeePrice": 8990,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "photos": [
+      "images/shopee/voigtlander-septon-50mm-f2.jpg"
+    ],
+    "description": "Voigtländer Septon 50mm f/2. 50mm f/2 lens. See the Shopee listing for the full description, selected options and current availability.",
+    "details": [
+      [
+        "Listing details",
+        "50mm f/2 lens"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "status": "available",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81zth-muq65dvxy61216"
   }
 ]

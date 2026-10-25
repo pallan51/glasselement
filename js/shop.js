@@ -5,7 +5,7 @@ const cards = [...document.querySelectorAll('[data-product]')];
 const search = document.querySelector('#search');
 const sort = document.querySelector('#sort');
 const tabs = [...document.querySelectorAll('[data-filter]')];
-let category = ['eyewear','cameras'].includes(location.hash.slice(1)) ? location.hash.slice(1) : location.hash === '#vault' ? 'cameras' : 'all';
+let category = ['eyewear','cameras','lenses'].includes(location.hash.slice(1)) ? location.hash.slice(1) : location.hash === '#vault' ? 'cameras' : 'all';
 function updateCatalogue() {
   const query = (search?.value || '').trim().toLocaleLowerCase();
   let count = 0;
@@ -24,6 +24,7 @@ function updateCatalogue() {
     const statusOrder = {available:0,reserved:1,sold:2};
     const status = statusOrder[a.dataset.status] - statusOrder[b.dataset.status];
     if(status) return status;
+    if(['low','high'].includes(mode)) { const group=a.dataset.currency.localeCompare(b.dataset.currency); if(group) return group; }
     if(mode === 'low') return Number(a.dataset.price)-Number(b.dataset.price);
     if(mode === 'high') return Number(b.dataset.price)-Number(a.dataset.price);
     if(mode === 'name') return a.dataset.search.localeCompare(b.dataset.search);
@@ -38,7 +39,7 @@ tabs.forEach(tab => tab.addEventListener('click',() => {
 }));
 window.addEventListener('hashchange',() => {
   const hash = location.hash.slice(1);
-  if(['eyewear','cameras','vault','collection'].includes(hash)) {
+  if(['eyewear','cameras','lenses','vault','collection'].includes(hash)) {
     category = hash === 'vault' ? 'cameras' : hash === 'collection' ? 'all' : hash;
     updateCatalogue();
   }

@@ -18,8 +18,8 @@ for(const item of data){
  const scripts=[...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(match=>JSON.parse(match[1]));
  const product=scripts.find(s=>s['@type']==='Product');
  assert.equal(product.offers.price,item.price,'Price mismatch');
- assert.equal(product.offers.priceCurrency,'USD');
- assert(html.includes('$'+item.price.toLocaleString('en-US')+'<small>USD</small>'),'Missing visible price');
+ assert.equal(product.offers.priceCurrency,item.currency||'USD');
+ assert(html.includes((item.currency==='THB'?'฿':'$')+item.price.toLocaleString('en-US')+'<small>'+(item.currency||'USD')+'</small>'),'Missing visible price');
  assert(html.includes('mailto:contact@theglasselement.com?subject='),'Missing item enquiry');
  if(item.photoKind==='illustration'){
   assert(!product.image,'Illustration wrongly advertised as actual-item product photo');
@@ -46,3 +46,16 @@ const map=await fs.readFile(path.join(root,'sitemap.xml'),'utf8');
 assert(!map.includes('hokkaido.html'),'Stale sitemap entry');
 for(const item of data)assert(map.includes('/items/'+item.id+'.html'),'Missing sitemap item');
 console.log('Passed '+checks+' content, link and price checks for '+data.length+' items.');
+
+const sources=new Set();
+for(const item of data.filter(x=>x.shopeeUrl)){
+ assert(!sources.has(item.shopeeUrl),'Duplicate Shopee listing');sources.add(item.shopeeUrl);
+ assert(/^https:\/\/shopee.co.th\/product\/1470634569\/\d+$/.test(item.shopeeUrl),'Invalid shop link');
+ assert(['cameras','lenses','eyewear'].includes(item.category),'Unexpected import category');
+ const html=await fs.readFile(path.join(root,'items',item.id+'.html'),'utf8');
+ assert(html.includes(item.shopeeUrl),'Missing purchase link');
+ assert(html.includes('Shopee listing price:'),'Missing source price disclosure');
+ assert(!html.includes('Illustrative image'),'Stale photo disclosure');
+ await fs.access(path.join(root,item.photos[0]));
+}
+console.log('Passed import provenance, category, duplicate, source-link and photograph checks for '+sources.size+' Shopee records.');
