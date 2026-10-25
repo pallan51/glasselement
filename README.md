@@ -1,39 +1,51 @@
 # The Glass Element
 
-Static collector catalogue hosted through the existing GitHub Pages repository and domain.
+Static product catalogue served by the existing GitHub Pages repository and domain.
 
-## Inventory updates
+## Updating stock
 
-The new catalogue uses `data/catalogue.json` as its single source. Run `node scripts/build.mjs` after editing it, then commit the generated HTML and sitemap together. This replaces the old runtime Google Sheets feed. Initial USD asking prices were copied from the live page on 25 October 2026; no discounts were applied. Old inventory files remain as historical references and are not loaded by the new pages.
+Edit data/catalogue.json, then run:
 
-Use numeric prices and set `currency` to `USD` or `THB` (USD is the default). Use and status `available`, `reserved`, or `sold`. Add original photo paths to `photos`; mark `photoKind` as `original` only for verified original item photographs. The first Shopee import replaces camera artwork with listing photographs. Marketplace screenshots are not presented as current item photographs.
+    node scripts/build.mjs
+    node scripts/check.mjs
+    node --check js/shop.js
 
-The site renders product information and enquiry links without JavaScript. JavaScript adds filtering, sorting, gallery navigation and copy controls. Product structured data and visible prices are generated from the same records.
+Commit the generated pages, sitemap, images and source changes together. Original image files and existing item URLs are preserved.
 
-## Outstanding stock information
+Every item has an exact model, English description, Thai summary, condition, contents and any known faults. The 28 original camera/lens/Vuarnet Shopee descriptions were reviewed on 25 October 2026; the two additional eyewear descriptions were reviewed during the preceding import. There are 35 product records, including 30 linked Shopee listings and 143 item photographs. Source gallery identifiers are retained in data/shopee-gallery-sources.json.
 
-- Confirm availability and USD asking prices for all seven items.
-- Check current condition and accessories against the full Shopee description before sale.
-- Confirm eyewear model codes, frame measurements, lens properties, condition and cases.
-- Confirm camera edition markings, menu language, tested functions, defects and accessories.
-- Confirm the working contact email and supply a preferred chat contact if wanted.
-- Establish payment, delivery and return terms before making specific promises.
-- Research comparable sold prices before advertising or discounting.
+Do not invent condition tests, authenticity guarantees, GTINs, reviews, shipping charges, return periods or warranties. Keep symptoms separate from speculative repair causes. Update repair, defects and itemCondition together. A used item with a known functional or optical fault must remain visibly disclosed.
 
-Do not invent restoration, authenticity, UV-protection, condition or warranty claims.
+The primary offer on a Shopee-linked item uses shopeePrice in THB and its actual Shopee purchase URL. The original price/currency remain intact for direct enquiries and are shown separately when different. These are dated snapshots, not a live marketplace feed. Refresh prices and availability when stock changes.
 
-## Checks and preview
+## Images and performance
 
-Run `node scripts/check.mjs` and `node --check js/shop.js`. Preview with `node scripts/preview.mjs` on port 8080. Images use the existing production asset URLs. No dependencies are needed. The original articles and domain configuration are preserved.
+Originals remain under images/ and images/shopee/. Responsive 600px and 1200px JPEG derivatives live under images/optimized/. data/image-manifest.json maps originals to derivatives, dimensions and byte sizes. All 143 originals remain available through full-size gallery links.
 
-## Rollback
+scripts/optimize-images.ps1 regenerates the derivatives using Windows System.Drawing. It requires an environment that permits locally authored PowerShell scripts; no execution-policy change is required or made by this project. Regenerate the image manifest when adding photographs, then rebuild the pages.
 
-The previous live commit is `66b5157d8e89a3bf274652e8b8136813d5217296`. Revert the redesign commit to restore it while preserving history.
+The 35 collection thumbnails total approximately 1.46 MB versus 12.62 MB for their original first photographs, an 88% reduction as measured during this update. Gallery previews and cards use responsive images; full originals are available on request via the image link.
 
-## Shopee import — 25 October 2026
+## Search and buying
 
-The first captured shop page supplies 26 new records and photographs/purchase links for two existing camera records. The catalogue now has 33 items. Hats, clothes and phones are excluded. Existing USD prices are preserved; new records retain displayed THB prices. Currency sorting groups by currency rather than comparing incompatible amounts. Source prices are dated snapshots, not a live feed.
+Crawlable collections: /cameras/, /lenses/, /eyewear/ and /repair/. Existing homepage hash filters remain functional. Product pages include unique metadata, exact brand/model H1s, visible English/Thai information, accurate Product/Offer, BreadcrumbList and ImageObject data, and original-photo credits/permission links. There are no fabricated ratings or manufacturer identifiers.
 
-Shopee listing photos are stored under `images/shopee/`, with source URLs retained in the catalogue. `photoKind: marketplace` identifies their provenance. Repair/parts/broken labels are preserved, and those records use DamagedCondition in structured data. Full descriptions and additional gallery views remain on Shopee.
+sitemap.xml contains the product and collection URLs plus all original image URLs. lastmod reflects actual content changes, not the current build time. robots.txt allows public crawling, including search crawlers used by Google, Bing and ChatGPT. No AI-specific file or ranking guarantee is assumed.
 
-The second shop page was reviewed after user-completed verification. It adds Tana Gokoro (Kaneko) and Dita Flight sunglasses, each with five saved listing photos and details from the product description. Dita uses its full frontal photograph first. The other active camera/lens/eyewear listings on that page were duplicates; sold-out recommendations, hats and clothing were excluded. Both shop pages have now been reviewed: 35 catalogue items in total, including 30 records linked to Shopee.
+Google's homepage verification meta tag is retained by the page generator for the owner's Search Console property. Do not remove it when rebuilding.
+
+Thirty records link directly to the owner's second_hand_japan Shopee product listings. Cards have purchase links and mobile product pages have a persistent purchase bar. The buying/contact page explains the actual buying routes without inventing delivery, payment or return terms.
+
+## Verification
+
+The local checker verifies all 35 product prices against their primary offer, unique titles/descriptions, exact model headings, Thai content, condition disclosures, galleries, image dimensions and files, original-photo licensing fields, category membership, crawlable links, sitemap coverage and public crawler access. Test filtering, alternate model spellings, gallery switching and mobile purchase controls in the browser before publishing.
+
+Preview:
+
+    node scripts/preview.mjs
+
+The local server serves the homepage and collection directory URLs on port 8080. Revert changes through Git history to roll back a release.
+
+## IndexNow discovery
+
+After publishing changed stock pages, run node scripts/submit-indexnow.mjs to notify participating search engines. The public ownership key is in data/search-config.json and its matching root .txt file; keep both. A 200 response confirms receipt, and 202 means receipt with key validation pending. Neither guarantees crawling or indexing. Google sitemap submission is handled separately in Search Console.

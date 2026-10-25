@@ -8,7 +8,7 @@ const mime={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8',
 http.createServer(async(req,res)=>{
  try{
   const requestPath=decodeURIComponent(new URL(req.url,'http://localhost').pathname);
-  const filename=path.resolve(root,'.'+(requestPath==='/'?'/index.html':requestPath));
+  const filename=path.resolve(root,'.'+(requestPath.endsWith('/')?requestPath+'index.html':requestPath));
   if(!filename.startsWith(root+path.sep)){res.writeHead(403);return res.end();}
   const data=await fs.readFile(filename);
   res.writeHead(200,{'Content-Type':mime[path.extname(filename).toLowerCase()]||'application/octet-stream','Cache-Control':'no-store'});res.end(data);

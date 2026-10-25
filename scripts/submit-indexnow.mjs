@@ -1,0 +1,13 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const config=JSON.parse(await fs.readFile(path.join(root,'data/search-config.json'),'utf8'));
+const origin='https://theglasselement.com';
+const keyFile=await fetch(origin+'/'+config.indexNowKey+'.txt',{signal:AbortSignal.timeout(15000)});
+if(!keyFile.ok||(await keyFile.text()).trim()!==config.indexNowKey)throw Error('Publish the verification file before submission.');
+const xml=await fs.readFile(path.join(root,'sitemap.xml'),'utf8');
+const urls=[...xml.matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>m[1]).filter(u=>!u.includes('/posts/'));
+const response=await fetch('https://api.indexnow.org/indexnow',{method:'POST',headers:{'Content-Type':'application/json; charset=utf-8'},body:JSON.stringify({host:'theglasselement.com',key:config.indexNowKey,keyLocation:origin+'/'+config.indexNowKey+'.txt',urlList:urls}),signal:AbortSignal.timeout(20000)});
+console.log(JSON.stringify({status:response.status,urls:urls.length,meaning:response.status===200?'Received by IndexNow; indexing not guaranteed':response.status===202?'Received; key validation pending':await response.text()}));
+if(![200,202].includes(response.status))process.exitCode=1;

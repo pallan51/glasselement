@@ -53,7 +53,17 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "status": "available",
-    "itemCondition": "UsedCondition"
+    "itemCondition": "UsedCondition",
+    "model": "Dita Flight",
+    "aliases": [
+      "DITA Flight aviator",
+      "Dita titanium sunglasses",
+      "แว่น Dita Flight"
+    ],
+    "thaiDescription": "แว่นกันแดด Dita Flight ทรงนักบิน กรอบไทเทเนียมตามประกาศ เลนส์ไล่สี มีภาพจริง 5 ภาพ สอบถามขนาดที่แน่นอนก่อนซื้อ",
+    "conditionLabel": "Used · see photographs",
+    "included": "Confirm case and accessories",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "eyevan-racing-team-sun",
@@ -84,7 +94,17 @@
         "Rose tint"
       ]
     ],
-    "status": "available"
+    "status": "available",
+    "model": "Eyevan Racing Team Sun",
+    "aliases": [
+      "EYEVAN Racing Team",
+      "Eyevan sunglasses",
+      "แว่น Eyevan"
+    ],
+    "thaiDescription": "แว่นกันแดด Eyevan Racing Team Sun กรอบโทนสีอำพัน เลนส์โทนชมพู ดูภาพจริง 5 ภาพและสอบถามขนาดกับสภาพก่อนซื้อ",
+    "conditionLabel": "Condition details on request",
+    "included": "Confirm case, lens specifications and other accessories",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "kaneko-optical-united-arrows",
@@ -106,7 +126,18 @@
         "United Arrows"
       ]
     ],
-    "status": "available"
+    "status": "available",
+    "model": "Kaneko Optical × United Arrows",
+    "aliases": [
+      "Kaneko UA",
+      "Kaneko United Arrows",
+      "金子眼鏡",
+      "แว่น Kaneko"
+    ],
+    "thaiDescription": "แว่น Kaneko Optical ร่วมกับ United Arrows ดูภาพจริง 4 ภาพ สอบถามรหัสรุ่น ขนาดกรอบ เลนส์ และสภาพก่อนซื้อ",
+    "conditionLabel": "Condition details on request",
+    "included": "Confirm case and lens details",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "masunaga-optical",
@@ -128,7 +159,17 @@
         "Optical frames"
       ]
     ],
-    "status": "available"
+    "status": "available",
+    "model": "Masunaga optical frames",
+    "aliases": [
+      "Masunaga spectacles",
+      "増永眼鏡",
+      "แว่น Masunaga"
+    ],
+    "thaiDescription": "กรอบแว่น Masunaga ดูภาพจริง 4 ภาพ สอบถามรหัสรุ่น ขนาดกรอบ และรายละเอียดเลนส์ก่อนซื้อ",
+    "conditionLabel": "Condition details on request",
+    "included": "Confirm case and current lenses",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "masunaga-sunglasses",
@@ -150,7 +191,17 @@
         "Sunglasses"
       ]
     ],
-    "status": "available"
+    "status": "available",
+    "model": "Masunaga sunglasses",
+    "aliases": [
+      "Masunaga sun",
+      "増永 サングラス",
+      "แว่นกันแดด Masunaga"
+    ],
+    "thaiDescription": "แว่นกันแดด Masunaga ดูภาพจริง 4 ภาพ สอบถามรหัสรุ่น ขนาด สภาพ และคุณสมบัติเลนส์ก่อนซื้อ",
+    "conditionLabel": "Condition details on request",
+    "included": "Confirm case and lens specifications",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "oliver-peoples-kin",
@@ -170,7 +221,16 @@
         "Kin"
       ]
     ],
-    "status": "available"
+    "status": "available",
+    "model": "Oliver Peoples Kin",
+    "aliases": [
+      "Oliver Peoples KIN",
+      "แว่น Oliver Peoples Kin"
+    ],
+    "thaiDescription": "แว่น Oliver Peoples รุ่น Kin พร้อมภาพจริง 2 ภาพ สอบถามขนาดกรอบ เลนส์ และสภาพก่อนสั่งซื้อ",
+    "conditionLabel": "Condition details on request",
+    "included": "Confirm case and current lenses",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "tana-gokoro-kaneko-sunglasses",
@@ -226,13 +286,24 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "status": "available",
-    "itemCondition": "UsedCondition"
+    "itemCondition": "UsedCondition",
+    "model": "Tana Gokoro by Kaneko",
+    "aliases": [
+      "Tanagokoro",
+      "Tana-Gokoro",
+      "Kaneko celluloid",
+      "แว่น Tana Gokoro"
+    ],
+    "thaiDescription": "แว่น Tana Gokoro โดย Kaneko กรอบเซลลูลอยด์ พร้อมเลนส์ CR-39 เปลี่ยนสีใหม่ที่ไม่ใช่เลนส์สายตาตามประกาศ ดูภาพจริง 5 ภาพ",
+    "conditionLabel": "Used frames · replacement lenses listed",
+    "included": "Original nose pads and new non-prescription CR-39 photochromic lenses, as listed",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "vuarnet-vl1602-0001",
     "category": "eyewear",
     "brand": "Vuarnet",
-    "name": "VL1602 0001 sunglasses",
+    "name": "VL1602 0001 · Pure Brown Gold Flash",
     "price": 2610,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/43129544004",
@@ -240,21 +311,49 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/vuarnet-vl1602-0001.jpg"
+      "images/shopee/vuarnet-vl1602-0001.jpg",
+      "images/shopee/vuarnet-vl1602-0001-2.jpg",
+      "images/shopee/vuarnet-vl1602-0001-3.jpg",
+      "images/shopee/vuarnet-vl1602-0001-4.jpg",
+      "images/shopee/vuarnet-vl1602-0001-5.jpg"
     ],
-    "description": "Vuarnet VL1602 0001 sunglasses. Sunglasses. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Vuarnet VL1602 0001 sunglasses with Pure Brown Gold Flash mineral-glass lenses, as described in the seller's listing. Five photographs show the frame and lenses. Check the exact markings, frame measurements and any lens wear before buying; case inclusion and lens-protection specifications should be confirmed separately.",
     "details": [
       [
-        "Listing details",
-        "Sunglasses"
+        "Model",
+        "Vuarnet VL1602 0001"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Used · see photographs"
+      ],
+      [
+        "Included / excluded",
+        "Confirm case and accessories"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/sg-11134201-823pa-mp2jek300gld03"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/sg-11134201-823pa-mp2jek300gld03",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/sg-11134201-823pa-mp2jek300gld03",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zte-mmbej5ta03k1df",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztf-mmbej5tyz30k97",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztk-mmbej5vnnc3k05",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mmbej5t980794f"
+    ],
+    "model": "Vuarnet VL1602 0001",
+    "aliases": [
+      "Vuarnet VL 1602",
+      "VL1602 0001",
+      "แว่น Vuarnet VL1602"
+    ],
+    "thaiDescription": "แว่นกันแดด Vuarnet VL1602 0001 เลนส์กระจกมิเนรัล Pure Brown Gold Flash ตามประกาศ ดูภาพจริงและสอบถามขนาด สภาพเลนส์ และเคสก่อนซื้อ",
+    "conditionLabel": "Used · see photographs",
+    "included": "Confirm case and accessories",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "canon-eos-6d-camouflage",
@@ -268,48 +367,109 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/canon-eos-6d-camouflage.jpg"
+      "images/shopee/canon-eos-6d-camouflage.jpg",
+      "images/shopee/canon-eos-6d-camouflage-2.jpg",
+      "images/shopee/canon-eos-6d-camouflage-3.jpg",
+      "images/shopee/canon-eos-6d-camouflage-4.jpg"
     ],
-    "description": "Canon EOS 6D · camouflage wrap. Camouflage-wrapped body. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Canon EOS 6D from the owner's personal collection, with a removable green camouflage wrap. The seller reports that the camera works well. Four photographs show the exact body; review them for cosmetic condition and ask which battery, charger and other accessories are included.",
     "details": [
       [
-        "Listing details",
-        "Camouflage-wrapped body"
+        "Model",
+        "Canon EOS 6D"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Working condition listed"
+      ],
+      [
+        "Included / excluded",
+        "Accessories to be confirmed"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztk-muoqp4rw9xxm13"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztk-muoqp4rw9xxm13",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztk-muoqp4rw9xxm13",
+      "https://down-th.img.susercontent.com/file/th-11134201-81zti-muoqp547iyv79e",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztj-muoqp55yxi4nd3",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztm-muoqp52gbdahe5"
+    ],
+    "model": "Canon EOS 6D",
+    "aliases": [
+      "Canon 6D",
+      "EOS6D",
+      "กล้อง Canon 6D"
+    ],
+    "thaiDescription": "Canon EOS 6D ติดสติกเกอร์ลายพรางสีเขียว ลอกออกได้ ผู้ขายระบุว่าใช้งานได้ดี สอบถามอุปกรณ์ที่รวมก่อนสั่งซื้อ",
+    "conditionLabel": "Working condition listed",
+    "included": "Accessories to be confirmed",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "canon-eos-m200-japan-edition",
     "category": "cameras",
     "brand": "Canon",
-    "name": "EOS M200 · Japan edition",
+    "name": "EOS M200 · brown Tokyo Olympics edition",
     "price": 690,
-    "description": "Canon EOS M200 · Japan edition. Shown in a photograph from our Shopee listing. Confirm the selected variant, current condition and included accessories before buying.",
+    "description": "Brown Canon EOS M200, described in the seller's listing as the Tokyo Olympics limited edition. Includes the original strap, one battery and a kit lens. The listing reports full operation with small cosmetic scuffs on the casing. Review the five photographs for edition details and body wear.",
     "photos": [
-      "images/shopee/canon-eos-m200-japan-edition.jpg"
+      "images/shopee/canon-eos-m200-japan-edition-2.jpg",
+      "images/shopee/canon-eos-m200-japan-edition.jpg",
+      "images/shopee/canon-eos-m200-japan-edition-3.jpg",
+      "images/shopee/canon-eos-m200-japan-edition-4.jpg",
+      "images/shopee/canon-eos-m200-japan-edition-5.jpg"
     ],
     "photoKind": "marketplace",
     "details": [
       [
         "Model",
-        "EOS M200"
+        "Canon EOS M200"
       ],
       [
-        "Type",
-        "Mirrorless camera"
+        "Condition as listed",
+        "Working condition listed"
+      ],
+      [
+        "Included / excluded",
+        "Original strap, one battery and kit lens"
+      ],
+      [
+        "Disclosed issues",
+        "Small cosmetic scuffs"
       ]
     ],
     "status": "available",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/52754835000",
     "shopeePrice": 16110,
     "sourceChecked": "2026-10-25",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mjky0yqkym0w25"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mjky0yqkym0w25",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztp-mjky0yql00lc3c",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mjky0yqkym0w25",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mjky0yql1f5saa",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zti-mjky0yql2tq8ea",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zte-mjky0yql48ao8e"
+    ],
+    "model": "Canon EOS M200",
+    "aliases": [
+      "Canon M200",
+      "EOS M200",
+      "M200 brown",
+      "Tokyo Olympics",
+      "กล้อง Canon M200"
+    ],
+    "thaiDescription": "Canon EOS M200 สีน้ำตาล รุ่นโอลิมปิกโตเกียวตามประกาศ พร้อมสายคล้องเดิม แบตเตอรี่ 1 ก้อน และเลนส์คิต มีรอยภายนอกเล็กน้อย",
+    "conditionLabel": "Working condition listed",
+    "included": "Original strap, one battery and kit lens",
+    "defects": "Small cosmetic scuffs",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25",
+    "seoTitle": "Canon EOS M200 Brown Tokyo Olympics Edition for Sale in Thailand"
   },
   {
     "id": "canon-eos-m6-parts",
@@ -323,22 +483,54 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/canon-eos-m6-parts.jpg"
+      "images/shopee/canon-eos-m6-parts.jpg",
+      "images/shopee/canon-eos-m6-parts-2.jpg",
+      "images/shopee/canon-eos-m6-parts-3.jpg",
+      "images/shopee/canon-eos-m6-parts-4.jpg",
+      "images/shopee/canon-eos-m6-parts-5.jpg"
     ],
-    "description": "Canon EOS M6 · damaged / for parts. Damaged / for parts. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Canon EOS M6 sold as-is for parts or repair, with significant cosmetic damage. Its sensor and internals only appear intact in the seller's description; working operation is not established. A possible screen replacement is a repair hypothesis, not a diagnosis or a promise that it will power on.",
     "details": [
       [
-        "Listing details",
-        "Damaged / for parts"
+        "Model",
+        "Canon EOS M6"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "For parts / repair"
+      ],
+      [
+        "Included / excluded",
+        "Parts body; accessories to be confirmed"
+      ],
+      [
+        "Disclosed issues",
+        "Significant cosmetic damage; operation unconfirmed"
       ]
     ],
     "status": "available",
     "itemCondition": "DamagedCondition",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mjky0yqixkhu75"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mjky0yqixkhu75",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mjky0yqixkhu75",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mjky0yqiyz2a9d",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztp-mjky0yqkuebk30",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mjky0yqkvsw024",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zth-mjky0yqkx7gg49"
+    ],
+    "model": "Canon EOS M6",
+    "aliases": [
+      "Canon M6",
+      "EOSM6",
+      "M6 parts",
+      "กล้อง Canon M6 อะไหล่"
+    ],
+    "thaiDescription": "Canon EOS M6 ขายตามสภาพ สำหรับอะไหล่หรือซ่อม มีความเสียหายภายนอกมาก ยังไม่ยืนยันว่าสามารถเปิดใช้งานได้",
+    "conditionLabel": "For parts / repair",
+    "included": "Parts body; accessories to be confirmed",
+    "defects": "Significant cosmetic damage; operation unconfirmed",
+    "repair": true,
+    "dateModified": "2026-10-25"
   },
   {
     "id": "fujifilm-f200exr",
@@ -352,21 +544,48 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/fujifilm-f200exr.jpg"
+      "images/shopee/fujifilm-f200exr.jpg",
+      "images/shopee/fujifilm-f200exr-2.jpg",
+      "images/shopee/fujifilm-f200exr-3.jpg",
+      "images/shopee/fujifilm-f200exr-4.jpg"
     ],
-    "description": "Fujifilm FinePix F200EXR. Compact camera. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Fujifilm FinePix F200EXR compact camera, offered with a charger. The seller describes this example as being in excellent condition and reports that its functions work normally. Four photographs show the body and controls. Confirm battery inclusion and current operation before checkout.",
     "details": [
       [
-        "Listing details",
-        "Compact camera"
+        "Model",
+        "Fujifilm FinePix F200EXR"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Working condition listed"
+      ],
+      [
+        "Included / excluded",
+        "Charger; battery inclusion to be confirmed"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztq-muoqvi2kzhmt82"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztq-muoqvi2kzhmt82",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztq-muoqvi2kzhmt82",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztq-muoqvi3cj85lb3",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztq-muoqvhroqg3u35",
+      "https://down-th.img.susercontent.com/file/th-11134201-81zti-muoqvhsab85cdd"
+    ],
+    "model": "Fujifilm FinePix F200EXR",
+    "aliases": [
+      "Fuji F200EXR",
+      "F200 EXR",
+      "Finepix F200",
+      "กล้อง Fuji F200EXR"
+    ],
+    "thaiDescription": "Fujifilm FinePix F200EXR พร้อมที่ชาร์จ ผู้ขายระบุว่าสภาพดีเยี่ยมและใช้งานได้ปกติ สอบถามแบตเตอรี่ที่รวมในชุด",
+    "conditionLabel": "Working condition listed",
+    "included": "Charger; battery inclusion to be confirmed",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "fujifilm-x-e2s",
@@ -380,27 +599,56 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/fujifilm-x-e2s.jpg"
+      "images/shopee/fujifilm-x-e2s.jpg",
+      "images/shopee/fujifilm-x-e2s-2.jpg",
+      "images/shopee/fujifilm-x-e2s-3.jpg",
+      "images/shopee/fujifilm-x-e2s-4.jpg",
+      "images/shopee/fujifilm-x-e2s-5.jpg"
     ],
-    "description": "Fujifilm X-E2S with 25mm f/1.8 AF. Listed with a 25mm f/1.8 AF lens. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Fujifilm X-E2S with a 25mm f/1.8 autofocus lens. The seller describes it as a Japan-built later revision of the X-E2, in excellent condition. Five photographs show this camera and lens combination. Confirm the lens brand, menu language, battery and charger before ordering.",
     "details": [
       [
-        "Listing details",
-        "Listed with a 25mm f/1.8 AF lens"
+        "Model",
+        "Fujifilm X-E2S"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Used · see listing"
+      ],
+      [
+        "Included / excluded",
+        "25mm f/1.8 autofocus lens; other accessories to be confirmed"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mqdgw9c342dp34"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mqdgw9c342dp34",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mqdgw9c342dp34",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mqdgw97qrkssbf",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mqdgw9peymf56d",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztq-mqdgw9y3qeq31a",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztk-mqdgw9j2e3nz09"
+    ],
+    "model": "Fujifilm X-E2S",
+    "aliases": [
+      "Fuji XE2S",
+      "X E2S",
+      "X-E2S",
+      "กล้อง Fuji XE2S"
+    ],
+    "thaiDescription": "Fujifilm X-E2S พร้อมเลนส์ออโต้โฟกัส 25mm f/1.8 ผู้ขายระบุว่าสภาพดีเยี่ยม สอบถามภาษาเมนู แบตเตอรี่ และที่ชาร์จ",
+    "conditionLabel": "Used · see listing",
+    "included": "25mm f/1.8 autofocus lens; other accessories to be confirmed",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "fujifilm-x-m1-broken",
     "category": "cameras",
     "brand": "Fujifilm",
-    "name": "X-M1 · broken",
+    "name": "X-M1 · broken / for parts",
     "price": 4410,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/53054820520",
@@ -408,28 +656,58 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/fujifilm-x-m1-broken.jpg"
+      "images/shopee/fujifilm-x-m1-broken.jpg",
+      "images/shopee/fujifilm-x-m1-broken-2.jpg",
+      "images/shopee/fujifilm-x-m1-broken-3.jpg",
+      "images/shopee/fujifilm-x-m1-broken-4.jpg"
     ],
-    "description": "Fujifilm X-M1 · broken. Broken / for repair. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Fujifilm X-M1 for parts or repair. The body is described as cosmetically attractive, but it powers on briefly, becomes warm and switches itself off. Treat it as a non-working camera; the cause and repair cost have not been established. Four photographs document the exterior.",
     "details": [
       [
-        "Listing details",
-        "Broken / for repair"
+        "Model",
+        "Fujifilm X-M1"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "For parts / repair"
+      ],
+      [
+        "Included / excluded",
+        "Parts body; accessories to be confirmed"
+      ],
+      [
+        "Disclosed issues",
+        "Powers on briefly, warms up and switches off"
       ]
     ],
     "status": "available",
     "itemCondition": "DamagedCondition",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mjky0yqiry825f"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mjky0yqiry825f",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mjky0yqiry825f",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztq-mjky0yqitcsi04",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztf-mjky0yqiurcyd2",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zti-mjky0yqiw5xe46"
+    ],
+    "model": "Fujifilm X-M1",
+    "aliases": [
+      "Fuji XM1",
+      "X M1",
+      "X-M1 parts",
+      "กล้อง Fuji XM1 เสีย"
+    ],
+    "thaiDescription": "Fujifilm X-M1 เสีย ขายสำหรับอะไหล่หรือซ่อม เปิดติดชั่วครู่แล้วร้อนและดับ ยังไม่ทราบสาเหตุและค่าซ่อม",
+    "conditionLabel": "For parts / repair",
+    "included": "Parts body; accessories to be confirmed",
+    "defects": "Powers on briefly, warms up and switches off",
+    "repair": true,
+    "dateModified": "2026-10-25"
   },
   {
     "id": "fujifilm-x10",
     "category": "cameras",
     "brand": "Fujifilm",
-    "name": "X10 · EXR",
+    "name": "X10 · EXR compact camera",
     "price": 8549,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/48964138754",
@@ -437,27 +715,59 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/fujifilm-x10.jpg"
+      "images/shopee/fujifilm-x10.jpg",
+      "images/shopee/fujifilm-x10-2.jpg",
+      "images/shopee/fujifilm-x10-3.jpg",
+      "images/shopee/fujifilm-x10-4.jpg",
+      "images/shopee/fujifilm-x10-5.jpg"
     ],
-    "description": "Fujifilm X10 · EXR. Compact camera. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Fujifilm X10 EXR compact camera with its built-in zoom lens and Fuji film simulations, from the seller's personal collection. Includes the battery and charger; the photographed strap is not included. Five listing photographs show the camera. Ask for a current functional check and any close-ups you need.",
     "details": [
       [
-        "Listing details",
-        "Compact camera"
+        "Model",
+        "Fujifilm X10"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Used · see listing"
+      ],
+      [
+        "Included / excluded",
+        "Battery and charger"
+      ],
+      [
+        "Disclosed issues",
+        "Strap not included"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81zto-mqqb44tppyiq44"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81zto-mqqb44tppyiq44",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81zto-mqqb44tppyiq44",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztp-mqqb44sjxkapc6",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zte-mqqb44t3zk7h34",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztl-mqqb44vmgz65e0",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztp-mqqb44tfnk0286"
+    ],
+    "model": "Fujifilm X10",
+    "aliases": [
+      "Fuji X10",
+      "FinePix X10",
+      "กล้อง Fuji X10"
+    ],
+    "thaiDescription": "Fujifilm X10 พร้อมแบตเตอรี่และที่ชาร์จ ไม่รวมสายคล้องที่เห็นในภาพ สอบถามผลการทดสอบล่าสุดก่อนสั่งซื้อ",
+    "conditionLabel": "Used · see listing",
+    "included": "Battery and charger",
+    "defects": "Strap not included",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "olympus-e-pm2",
     "category": "cameras",
     "brand": "Olympus",
-    "name": "E-PM2 · PEN Mini",
+    "name": "E-PM2 · shutter button & IBIS faults",
     "price": 3510,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/28680598297",
@@ -465,27 +775,59 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/olympus-e-pm2.jpg"
+      "images/shopee/olympus-e-pm2.jpg",
+      "images/shopee/olympus-e-pm2-2.jpg",
+      "images/shopee/olympus-e-pm2-3.jpg",
+      "images/shopee/olympus-e-pm2-4.jpg",
+      "images/shopee/olympus-e-pm2-5.jpg"
     ],
-    "description": "Olympus E-PM2 · PEN Mini. Mirrorless camera. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Olympus E-PM2 PEN Mini with disclosed faults: the rubber grip and shutter button are missing, so photographs are taken using the touchscreen. In-body stabilization does not work. The seller reports that the sensor still produces images. Includes a battery and charger; a basic lens is shown, so confirm the exact lens supplied.",
     "details": [
       [
-        "Listing details",
-        "Mirrorless camera"
+        "Model",
+        "Olympus E-PM2"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Known faults"
+      ],
+      [
+        "Included / excluded",
+        "Battery and charger; confirm the basic lens included"
+      ],
+      [
+        "Disclosed issues",
+        "Missing grip and shutter button; IBIS not working"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-7rasb-m7p8yuvisqhdcb"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-7rasb-m7p8yuvisqhdcb",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7rasb-m7p8yuvisqhdcb",
+      "https://down-th.img.susercontent.com/file/th-11134207-7rasl-m7p8yuvisqhk17",
+      "https://down-th.img.susercontent.com/file/th-11134207-7rase-m7p8yuxgpw5tab",
+      "https://down-th.img.susercontent.com/file/th-11134207-7ras8-m7p8yuwwqpegec",
+      "https://down-th.img.susercontent.com/file/th-11134207-7rask-m7p8yuzen1ug68"
+    ],
+    "model": "Olympus E-PM2",
+    "aliases": [
+      "Olympus EPM2",
+      "PEN Mini E PM2",
+      "กล้อง Olympus E-PM2"
+    ],
+    "thaiDescription": "Olympus E-PM2 มีตำหนิ ยางจับและปุ่มชัตเตอร์หาย ต้องถ่ายผ่านหน้าจอสัมผัส ระบบกันสั่นไม่ทำงาน มีแบตเตอรี่และที่ชาร์จ",
+    "conditionLabel": "Known faults",
+    "included": "Battery and charger; confirm the basic lens included",
+    "defects": "Missing grip and shutter button; IBIS not working",
+    "repair": true,
+    "itemCondition": "DamagedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "pentax-k-3ii-limited-edition",
     "category": "cameras",
     "brand": "Pentax",
-    "name": "K-3 II · limited edition",
+    "name": "K-3 II Silver Edition · mode dial fault",
     "price": 16191,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/47664389992",
@@ -493,27 +835,57 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/pentax-k-3ii-limited-edition.jpg"
+      "images/shopee/pentax-k-3ii-limited-edition.jpg",
+      "images/shopee/pentax-k-3ii-limited-edition-2.jpg",
+      "images/shopee/pentax-k-3ii-limited-edition-3.jpg"
     ],
-    "description": "Pentax K-3 II · limited edition. Limited edition. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Silver Pentax K-3 II limited-edition body with a disclosed mode-dial fault. Only some shooting modes can be selected. The seller suspects dirt under the dial, but this has not been diagnosed and cleaning is not a guaranteed fix. Other operation is reported as normal. Review the photographs and ask which modes currently work.",
     "details": [
       [
-        "Listing details",
-        "Limited edition"
+        "Model",
+        "Pentax K-3 II"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Known fault"
+      ],
+      [
+        "Included / excluded",
+        "Confirm body accessories"
+      ],
+      [
+        "Disclosed issues",
+        "Mode dial only selects some shooting modes"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztq-mqvlatjgpypyb8"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztq-mqvlatjgpypyb8",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztq-mqvlatjgpypyb8",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztl-mqvlatjgrdae19",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztk-mqw2ornwrdak01"
+    ],
+    "model": "Pentax K-3 II",
+    "aliases": [
+      "Pentax K3II",
+      "K-3II",
+      "K3 II silver",
+      "กล้อง Pentax K-3 II"
+    ],
+    "thaiDescription": "Pentax K-3 II รุ่นสีเงิน แป้นหมุนโหมดมีปัญหา เลือกได้เพียงบางโหมด ยังไม่ได้วินิจฉัยสาเหตุ สอบถามโหมดที่ใช้งานได้ก่อนซื้อ",
+    "conditionLabel": "Known fault",
+    "included": "Confirm body accessories",
+    "defects": "Mode dial only selects some shooting modes",
+    "repair": true,
+    "itemCondition": "DamagedCondition",
+    "dateModified": "2026-10-25",
+    "seoTitle": "Pentax K-3 II Silver Edition · Mode Dial Fault · Thailand"
   },
   {
     "id": "pentax-k-70",
     "category": "cameras",
     "brand": "Pentax",
-    "name": "K-70 · upgraded solenoid",
+    "name": "K-70 · Japanese replacement solenoid",
     "price": 11250,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/56514301287",
@@ -521,27 +893,53 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/pentax-k-70.jpg"
+      "images/shopee/pentax-k-70.jpg",
+      "images/shopee/pentax-k-70-2.jpg",
+      "images/shopee/pentax-k-70-3.jpg"
     ],
-    "description": "Pentax K-70 · upgraded solenoid. Listing describes an upgraded solenoid. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Pentax K-70 body with a shutter solenoid replaced using a part from Japan, according to the seller. The listing reports excellent cosmetic condition, no visible wear and normal operation. Sold body-only: the lens is not included. Ask for current exposure tests and the battery and charger details.",
     "details": [
       [
-        "Listing details",
-        "Listing describes an upgraded solenoid"
+        "Model",
+        "Pentax K-70"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Working condition listed"
+      ],
+      [
+        "Included / excluded",
+        "Body only; lens excluded; confirm battery and charger"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mquqm8qkf4eb27"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mquqm8qkf4eb27",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mquqm8qkf4eb27",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztp-mquqm8qkcb9f5b",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztp-mquqm8qkdptv04"
+    ],
+    "model": "Pentax K-70",
+    "aliases": [
+      "Pentax K70",
+      "K 70",
+      "solenoid replaced",
+      "กล้อง Pentax K70"
+    ],
+    "thaiDescription": "Pentax K-70 เฉพาะบอดี้ ไม่รวมเลนส์ เปลี่ยนโซลินอยด์ด้วยอะไหล่จากญี่ปุ่นตามประกาศ ผู้ขายระบุว่าสภาพดีและทำงานปกติ",
+    "conditionLabel": "Working condition listed",
+    "included": "Body only; lens excluded; confirm battery and charger",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25",
+    "seoTitle": "Pentax K-70 Body · Solenoid Replaced · For Sale in Thailand"
   },
   {
     "id": "pentax-k-m-olive",
     "category": "cameras",
     "brand": "Pentax",
-    "name": "K-m · olive limited edition",
+    "name": "K-m · olive limited edition CCD",
     "price": 8991,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/47714387949",
@@ -549,27 +947,57 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/pentax-k-m-olive.jpg"
+      "images/shopee/pentax-k-m-olive.jpg",
+      "images/shopee/pentax-k-m-olive-2.jpg",
+      "images/shopee/pentax-k-m-olive-3.jpg"
     ],
-    "description": "Pentax K-m · olive limited edition. Olive limited edition CCD camera. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Olive limited-edition Pentax K-m CCD DSLR. The listing describes a compact camera in excellent cosmetic condition apart from a small missing piece of the eyecup, with normal operation. Three photographs show the olive finish. Confirm the included accessories and inspect the eyecup detail before checkout.",
     "details": [
       [
-        "Listing details",
-        "Olive limited edition CCD camera"
+        "Model",
+        "Pentax K-m"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Working condition listed"
+      ],
+      [
+        "Included / excluded",
+        "Accessories to be confirmed"
+      ],
+      [
+        "Disclosed issues",
+        "Small missing piece of eyecup"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mqvlatjgu6fab3"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mqvlatjgu6fab3",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mqvlatjgu6fab3",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztc-mqvlatjgsruu16",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztj-mqvlatjgvkzqb1"
+    ],
+    "model": "Pentax K-m",
+    "aliases": [
+      "Pentax Km",
+      "K-m olive",
+      "K2000 olive",
+      "กล้อง Pentax K-m"
+    ],
+    "thaiDescription": "Pentax K-m CCD รุ่นสีเขียวมะกอก ผู้ขายระบุว่าใช้งานได้ดี ยางรองตามีชิ้นส่วนขาดเล็กน้อย สอบถามอุปกรณ์ที่รวม",
+    "conditionLabel": "Working condition listed",
+    "included": "Accessories to be confirmed",
+    "defects": "Small missing piece of eyecup",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25",
+    "seoTitle": "Pentax K-m Olive Limited Edition CCD DSLR for Sale in Thailand"
   },
   {
     "id": "pentax-k-r-red-yellow",
     "category": "cameras",
     "brand": "Pentax",
-    "name": "K-r · red and yellow",
+    "name": "K-r · red & yellow with 18–55mm",
     "price": 5391,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/56119806563",
@@ -577,54 +1005,117 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/pentax-k-r-red-yellow.jpg"
+      "images/shopee/pentax-k-r-red-yellow.jpg",
+      "images/shopee/pentax-k-r-red-yellow-2.jpg",
+      "images/shopee/pentax-k-r-red-yellow-3.jpg",
+      "images/shopee/pentax-k-r-red-yellow-4.jpg",
+      "images/shopee/pentax-k-r-red-yellow-5.jpg"
     ],
-    "description": "Pentax K-r · red and yellow. Red and yellow camera listing; confirm selected variant. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Red-and-yellow Pentax K-r with an 18–55mm kit lens. The seller describes this colour combination as rare and reports excellent condition and normal operation. Five photographs show the exact camera and included lens. Confirm battery, charger and other contents before ordering.",
     "details": [
       [
-        "Listing details",
-        "Red and yellow camera listing; confirm selected variant"
+        "Model",
+        "Pentax K-r"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Working condition listed"
+      ],
+      [
+        "Included / excluded",
+        "18–55mm kit lens; confirm remaining accessories"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81zte-muoor75b3s3pd9"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81zte-muoor75b3s3pd9",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81zte-muoor75b3s3pd9",
+      "https://down-th.img.susercontent.com/file/th-11134201-81zte-muoor79gcmbq8b",
+      "https://down-th.img.susercontent.com/file/th-11134201-81zte-muoor80d7vgp06",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztf-muoor78ln6yx02",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztf-muoor7bfbqww65"
+    ],
+    "model": "Pentax K-r",
+    "aliases": [
+      "Pentax Kr",
+      "K r",
+      "K-r red yellow",
+      "กล้อง Pentax K-r"
+    ],
+    "thaiDescription": "Pentax K-r สีแดง-เหลือง พร้อมเลนส์คิต 18–55mm ผู้ขายระบุว่าสภาพดีเยี่ยมและใช้งานได้ปกติ",
+    "conditionLabel": "Working condition listed",
+    "included": "18–55mm kit lens; confirm remaining accessories",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "pentax-k-s1",
     "category": "cameras",
     "brand": "Pentax",
-    "name": "K-S1",
+    "name": "K-S1 · brown / blue body options",
     "price": 390,
-    "description": "Pentax K-S1. Shown in a photograph from our Shopee listing. Confirm the selected variant, current condition and included accessories before buying.",
+    "description": "Pentax K-S1 DSLR listing covering brown and blue bodies. The seller describes them as barely used, with functions appearing normal. These are colour options in one listing, not a promise of two bodies for one price. Confirm the available colour, selected option, accessories and final price on Shopee.",
     "photos": [
-      "images/shopee/pentax-k-s1.jpg"
+      "images/shopee/pentax-k-s1.jpg",
+      "images/shopee/pentax-k-s1-2.jpg",
+      "images/shopee/pentax-k-s1-3.jpg",
+      "images/shopee/pentax-k-s1-4.jpg",
+      "images/shopee/pentax-k-s1-5.jpg",
+      "images/shopee/pentax-k-s1-6.jpg",
+      "images/shopee/pentax-k-s1-7.jpg"
     ],
     "photoKind": "marketplace",
     "details": [
       [
         "Model",
-        "K-S1"
+        "Pentax K-S1"
       ],
       [
-        "Type",
-        "DSLR camera"
+        "Condition as listed",
+        "Used · confirm selected colour"
+      ],
+      [
+        "Included / excluded",
+        "Selected body option; confirm colour and accessories"
       ]
     ],
     "status": "available",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/40873645677",
     "shopeePrice": 8991,
     "sourceChecked": "2026-10-25",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztf-mfp2lsjhh1qm0c"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztf-mfp2lsjhh1qm0c",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztf-mfp2lsjhh1qm0c",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zti-mfp2lskc6iobeb",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mfp2lslia5fte7",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztl-mfp2lsluht7118",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztf-mfp2lskj4jrg72",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zti-mfp2lsjburyl43",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztq-mfp2lsjbw6j1d5"
+    ],
+    "model": "Pentax K-S1",
+    "aliases": [
+      "Pentax KS1",
+      "K S1",
+      "K-S1 brown blue",
+      "กล้อง Pentax K-S1"
+    ],
+    "thaiDescription": "Pentax K-S1 มีตัวเลือกสีน้ำตาลและสีน้ำเงินตามประกาศ กรุณายืนยันสีที่ยังมีและราคาต่อตัว ไม่ใช่ชุดกล้องสองตัวในราคาเดียว",
+    "conditionLabel": "Used · confirm selected colour",
+    "included": "Selected body option; confirm colour and accessories",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25",
+    "seoTitle": "Pentax K-S1 Brown / Blue DSLR Body Options for Sale in Thailand"
   },
   {
     "id": "pentax-kp",
     "category": "cameras",
     "brand": "Pentax",
-    "name": "KP",
+    "name": "KP · body only",
     "price": 17991,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/49764392658",
@@ -632,27 +1123,59 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/pentax-kp.jpg"
+      "images/shopee/pentax-kp.jpg",
+      "images/shopee/pentax-kp-2.jpg",
+      "images/shopee/pentax-kp-3.jpg",
+      "images/shopee/pentax-kp-4.jpg",
+      "images/shopee/pentax-kp-5.jpg"
     ],
-    "description": "Pentax KP. DSLR body. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Pentax KP DSLR body from the seller's collection. The listing reports normal operation and minor cosmetic wear, with otherwise excellent condition. Body only: the lens and strap are not included. Five photographs show the camera; ask for current shutter operation, battery and charger details.",
     "details": [
       [
-        "Listing details",
-        "DSLR body"
+        "Model",
+        "Pentax KP"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Working condition listed"
+      ],
+      [
+        "Included / excluded",
+        "Body only; lens and strap excluded; confirm battery and charger"
+      ],
+      [
+        "Disclosed issues",
+        "Minor cosmetic wear"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mqvlatjgwzk699"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mqvlatjgwzk699",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztd-mqvlatjgwzk699",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mqvlatjgn5l2dc",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mqvlatjglr0m17",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztk-mqvlatjgok5ic2",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztp-mqvlatjgye4mfa"
+    ],
+    "model": "Pentax KP",
+    "aliases": [
+      "Pentax K P",
+      "KP DSLR",
+      "กล้อง Pentax KP"
+    ],
+    "thaiDescription": "Pentax KP เฉพาะบอดี้ ไม่รวมเลนส์และสายคล้อง มีร่องรอยภายนอกเล็กน้อย ผู้ขายระบุว่าทำงานปกติ",
+    "conditionLabel": "Working condition listed",
+    "included": "Body only; lens and strap excluded; confirm battery and charger",
+    "defects": "Minor cosmetic wear",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "pentax-k100d-two-camera-kit",
     "category": "cameras",
     "brand": "Pentax",
-    "name": "Two K100D bodies + 18–55mm & 35–80mm",
+    "name": "K100D + K100D Super · repair kit",
     "price": 2925,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/47614353613",
@@ -662,25 +1185,50 @@
     "photos": [
       "images/shopee/pentax-k100d-two-camera-kit.jpg"
     ],
-    "description": "Pentax Two K100D bodies + 18–55mm & 35–80mm. Two-body kit as listed; confirm individual body condition. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Repair bundle containing one Pentax K100D and one K100D Super, plus an 18–55mm Pentax kit lens and a 35–80mm Pentax FA lens. Both bodies need repair: the seller reports that they do not produce usable images after the shutter fires. This is not a pair of working cameras.",
     "details": [
       [
-        "Listing details",
-        "Two-body kit as listed; confirm individual body condition"
+        "Model",
+        "Pentax K100D / K100D Super"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "For parts / repair"
+      ],
+      [
+        "Included / excluded",
+        "K100D, K100D Super, 18–55mm lens and FA 35–80mm lens"
+      ],
+      [
+        "Disclosed issues",
+        "Neither body produces usable images after the shutter fires"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mqvlatjh179m5c"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mqvlatjh179m5c",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mqvlatjh179m5c"
+    ],
+    "model": "Pentax K100D / K100D Super",
+    "aliases": [
+      "Pentax K100D Super",
+      "K100DS",
+      "CCD camera repair",
+      "กล้อง Pentax K100D เสีย"
+    ],
+    "thaiDescription": "ชุด Pentax K100D และ K100D Super ต้องซ่อมทั้งสองตัว ถ่ายแล้วไม่ได้ภาพที่ใช้งานได้ พร้อมเลนส์ Pentax 18–55mm และ FA 35–80mm",
+    "conditionLabel": "For parts / repair",
+    "included": "K100D, K100D Super, 18–55mm lens and FA 35–80mm lens",
+    "defects": "Neither body produces usable images after the shutter fires",
+    "repair": true,
+    "itemCondition": "DamagedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "pentax-zx-m",
     "category": "cameras",
     "brand": "Pentax",
-    "name": "ZX-M · film camera",
+    "name": "ZX-M · untested film body / parts",
     "price": 531,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/44273641986",
@@ -688,27 +1236,53 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/pentax-zx-m.jpg"
+      "images/shopee/pentax-zx-m.jpg",
+      "images/shopee/pentax-zx-m-2.jpg"
     ],
-    "description": "Pentax ZX-M · film camera. Film camera. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Pentax ZX-M film camera with unknown working condition. The seller offers it as a possible parts body; it has not been established as a working or film-tested camera. Two photographs show the exterior. Confirm included parts and any inspection results before buying.",
     "details": [
       [
-        "Listing details",
-        "Film camera"
+        "Model",
+        "Pentax ZX-M"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Untested / possible parts"
+      ],
+      [
+        "Included / excluded",
+        "Film body; contents to be confirmed"
+      ],
+      [
+        "Disclosed issues",
+        "Working condition unknown"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mfp2lsjbxl3hfc"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mfp2lsjbxl3hfc",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mfp2lsjbxl3hfc",
+      "https://down-th.img.susercontent.com/file/th-11134208-81zto-mfp2rgmv0yz161"
+    ],
+    "model": "Pentax ZX-M",
+    "aliases": [
+      "Pentax ZXM",
+      "ZX M film",
+      "กล้องฟิล์ม Pentax ZX-M"
+    ],
+    "thaiDescription": "Pentax ZX-M กล้องฟิล์ม ยังไม่ทราบสภาพการทำงาน ขายตามสภาพหรือใช้เป็นอะไหล่ ไม่ได้ยืนยันว่าผ่านการทดสอบฟิล์ม",
+    "conditionLabel": "Untested / possible parts",
+    "included": "Film body; contents to be confirmed",
+    "defects": "Working condition unknown",
+    "repair": true,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "samsung-nx300",
     "category": "cameras",
     "brand": "Samsung",
-    "name": "NX300",
+    "name": "NX300 · camera body",
     "price": 4491,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/56819812178",
@@ -716,27 +1290,53 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/samsung-nx300.jpg"
+      "images/shopee/samsung-nx300.jpg",
+      "images/shopee/samsung-nx300-2.jpg",
+      "images/shopee/samsung-nx300-3.jpg",
+      "images/shopee/samsung-nx300-4.jpg"
     ],
-    "description": "Samsung NX300. Mirrorless camera. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Samsung NX300 mirrorless camera, described by the seller as being in good condition with normal operation. A Samsung NX 18–55mm OIS lens is listed separately in this collection; do not assume that lens is included in this price. Four photographs show the camera.",
     "details": [
       [
-        "Listing details",
-        "Mirrorless camera"
+        "Model",
+        "Samsung NX300"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Working condition listed"
+      ],
+      [
+        "Included / excluded",
+        "Camera; kit lens offered separately; confirm accessories"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztg-muor24gl2ioab2"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztg-muor24gl2ioab2",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztg-muor24gl2ioab2",
+      "https://down-th.img.susercontent.com/file/th-11134201-81zto-muor23r4aj9d1f",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztm-muor24s93q4n3e",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztp-muor23num422b2"
+    ],
+    "model": "Samsung NX300",
+    "aliases": [
+      "Samsung NX 300",
+      "NX-300",
+      "กล้อง Samsung NX300"
+    ],
+    "thaiDescription": "Samsung NX300 ผู้ขายระบุว่าสภาพดีและใช้งานได้ปกติ เลนส์ Samsung NX 18–55mm OIS แยกขาย ไม่ได้รวมโดยอัตโนมัติ",
+    "conditionLabel": "Working condition listed",
+    "included": "Camera; kit lens offered separately; confirm accessories",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "sony-nex-c3-kit",
     "category": "cameras",
     "brand": "Sony",
-    "name": "NEX-C3 with 18–55mm & accessories",
+    "name": "NEX-C3 with 18–55mm zoom",
     "price": 7191,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/49354770087",
@@ -744,27 +1344,55 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/sony-nex-c3-kit.jpg"
+      "images/shopee/sony-nex-c3-kit.jpg",
+      "images/shopee/sony-nex-c3-kit-2.jpg",
+      "images/shopee/sony-nex-c3-kit-3.jpg",
+      "images/shopee/sony-nex-c3-kit-4.jpg",
+      "images/shopee/sony-nex-c3-kit-5.jpg"
     ],
-    "description": "Sony NEX-C3 with 18–55mm & accessories. Listed with zoom lens and accessories. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Sony NEX-C3 mirrorless camera with an 18–55mm zoom lens and accessories. The seller describes it as being in excellent condition. Five photographs show the camera, lens and equipment; confirm the precise accessory list and current functional check before checkout.",
     "details": [
       [
-        "Listing details",
-        "Listed with zoom lens and accessories"
+        "Model",
+        "Sony NEX-C3"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Used · see listing"
+      ],
+      [
+        "Included / excluded",
+        "18–55mm zoom lens and accessories; confirm exact list"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mjky0ysgcgslbb"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mjky0ysgcgslbb",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mjky0ysgcgslbb",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zth-mjky0yqjpnuva5",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zth-mjky0yqkszr433",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mjky0yqjmupz10",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztk-mjky0ysqdgqt6a"
+    ],
+    "model": "Sony NEX-C3",
+    "aliases": [
+      "Sony NEX C3",
+      "NEXC3",
+      "กล้อง Sony NEX-C3"
+    ],
+    "thaiDescription": "Sony NEX-C3 พร้อมเลนส์ซูม 18–55mm และอุปกรณ์ตามประกาศ ผู้ขายระบุว่าสภาพดีเยี่ยม สอบถามรายการอุปกรณ์ทั้งหมดก่อนซื้อ",
+    "conditionLabel": "Used · see listing",
+    "included": "18–55mm zoom lens and accessories; confirm exact list",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "voigtlander-ultramatic",
     "category": "cameras",
     "brand": "Voigtländer",
-    "name": "Ultramatic · film camera",
+    "name": "Ultramatic · untested, mirror corrosion",
     "price": 4491,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/55669238192",
@@ -772,27 +1400,59 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/voigtlander-ultramatic.jpg"
+      "images/shopee/voigtlander-ultramatic.jpg",
+      "images/shopee/voigtlander-ultramatic-2.jpg",
+      "images/shopee/voigtlander-ultramatic-3.jpg",
+      "images/shopee/voigtlander-ultramatic-4.jpg",
+      "images/shopee/voigtlander-ultramatic-5.jpg"
     ],
-    "description": "Voigtländer Ultramatic · film camera. Film camera. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Voigtländer Ultramatic film body, untested and sold without a lens. The seller bought it for the lens and describes excellent external appearance, but the mirror appears corroded. No film test or working-operation claim is made. Review the five photographs before considering it for restoration or parts.",
     "details": [
       [
-        "Listing details",
-        "Film camera"
+        "Model",
+        "Voigtländer Ultramatic"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Untested · mirror corrosion"
+      ],
+      [
+        "Included / excluded",
+        "Body only; lens excluded"
+      ],
+      [
+        "Disclosed issues",
+        "Mirror appears corroded; operation untested"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztm-muavi6zui2o1df"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztm-muavi6zui2o1df",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztm-muavi6zui2o1df",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztp-muavi6verc3p60",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztp-muavi6n1qebkda",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztk-muavi6ndv8xzb3",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztn-muavi6qtpngq64"
+    ],
+    "model": "Voigtländer Ultramatic",
+    "aliases": [
+      "Voigtlander Ultramatic",
+      "Voigtlaender Ultramatic",
+      "กล้องฟิล์ม Voigtlander"
+    ],
+    "thaiDescription": "Voigtländer Ultramatic เฉพาะบอดี้ ไม่รวมเลนส์ ยังไม่ได้ทดสอบ กระจกสะท้อนภาพมีลักษณะกัดกร่อน เหมาะสำหรับผู้รับสภาพหรือซ่อม",
+    "conditionLabel": "Untested · mirror corrosion",
+    "included": "Body only; lens excluded",
+    "defects": "Mirror appears corroded; operation untested",
+    "repair": true,
+    "itemCondition": "DamagedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "zeiss-planar-50mm-f14-ze",
     "category": "lenses",
     "brand": "Carl Zeiss",
-    "name": "Planar 50mm f/1.4 ZE · Canon EF",
+    "name": "Planar T* 50mm f/1.4 ZE · Canon EF",
     "price": 8990,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/45219877061",
@@ -800,27 +1460,50 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/zeiss-planar-50mm-f14-ze.jpg"
+      "images/shopee/zeiss-planar-50mm-f14-ze.jpg",
+      "images/shopee/zeiss-planar-50mm-f14-ze-2.jpg"
     ],
-    "description": "Carl Zeiss Planar 50mm f/1.4 ZE · Canon EF. Canon EF mount (ZE). See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Carl Zeiss Planar 50mm f/1.4 ZE lens for Canon EF mount. The seller describes this example as being in excellent condition and reports normal operation. Two photographs show the lens. Confirm optical condition, focusing and aperture operation, and included caps before buying.",
     "details": [
       [
-        "Listing details",
-        "Canon EF mount (ZE)"
+        "Model",
+        "Zeiss Planar 50mm f/1.4 ZE"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Working condition listed"
+      ],
+      [
+        "Included / excluded",
+        "Confirm caps and other accessories"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztn-muq5phpnv8jne4"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztn-muq5phpnv8jne4",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztn-muq5phpnv8jne4",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztg-muq5phnnlssmee"
+    ],
+    "model": "Zeiss Planar 50mm f/1.4 ZE (Canon EF)",
+    "aliases": [
+      "Carl Zeiss Planar 1.4/50 ZE",
+      "Zeiss 50 1.4 EF",
+      "Planar ZE 50mm",
+      "เลนส์ Zeiss Planar 50mm f1.4 ZE"
+    ],
+    "thaiDescription": "เลนส์ Carl Zeiss Planar 50mm f/1.4 ZE เมาท์ Canon EF ผู้ขายระบุว่าสภาพดีเยี่ยมและใช้งานได้ดี สอบถามสภาพชิ้นเลนส์และฝาปิดที่รวม",
+    "conditionLabel": "Working condition listed",
+    "included": "Confirm caps and other accessories",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "fujifilm-xc-35mm-f2",
     "category": "lenses",
     "brand": "Fujifilm",
-    "name": "Fujinon XC 35mm f/2",
+    "name": "Fujinon XC 35mm f/2 · X mount",
     "price": 8990,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/49119864154",
@@ -828,27 +1511,52 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/fujifilm-xc-35mm-f2.jpg"
+      "images/shopee/fujifilm-xc-35mm-f2.jpg",
+      "images/shopee/fujifilm-xc-35mm-f2-2.jpg",
+      "images/shopee/fujifilm-xc-35mm-f2-3.jpg"
     ],
-    "description": "Fujifilm Fujinon XC 35mm f/2. XC 35mm f/2. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Fujinon XC 35mm f/2 autofocus lens for Fujifilm X-mount cameras. The seller describes it as lightly used. Three photographs show the lens from the listing. Confirm the glass condition, autofocus operation and included caps before checkout; this is a lens listing, not a camera kit.",
     "details": [
       [
-        "Listing details",
-        "XC 35mm f/2"
+        "Model",
+        "Fujinon XC 35mm F2"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Lightly used, as listed"
+      ],
+      [
+        "Included / excluded",
+        "Lens; confirm caps and other accessories"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztp-muq5z22zw45c76"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztp-muq5z22zw45c76",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztp-muq5z22zw45c76",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztj-muq5z22fu48wdd",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztm-muq5z2120bglc6"
+    ],
+    "model": "Fujifilm Fujinon XC 35mm F2",
+    "aliases": [
+      "Fujifilm XC35 F2",
+      "XC 35 f2",
+      "Fuji XC35",
+      "เลนส์ Fuji XC 35mm F2"
+    ],
+    "thaiDescription": "Fujinon XC 35mm f/2 เลนส์ออโต้โฟกัสสำหรับ Fujifilm X Mount ใช้งานน้อยตามประกาศ สอบถามสภาพชิ้นเลนส์และอุปกรณ์ที่รวม",
+    "conditionLabel": "Lightly used, as listed",
+    "included": "Lens; confirm caps and other accessories",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "fujifilm-wcl-x100-repair",
     "category": "lenses",
     "brand": "Fujifilm",
-    "name": "WCL-X100 · repair / cleaning required",
+    "name": "WCL-X100 · moisture / repair required",
     "price": 2025,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/54764288930",
@@ -856,28 +1564,56 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/fujifilm-wcl-x100-repair.jpg"
+      "images/shopee/fujifilm-wcl-x100-repair.jpg",
+      "images/shopee/fujifilm-wcl-x100-repair-2.jpg",
+      "images/shopee/fujifilm-wcl-x100-repair-3.jpg"
     ],
-    "description": "Fujifilm WCL-X100 · repair / cleaning required. Repair / cleaning required. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Fujifilm WCL-X100 conversion lens sold for parts or repair. Moisture has entered the lens, and the seller says disassembly and cleaning are needed to restore clarity. Includes lens hood/accessories as listed. Confirm the exact conversion-lens model and compatibility with your X100-series camera before buying.",
     "details": [
       [
-        "Listing details",
-        "Repair / cleaning required"
+        "Model",
+        "Fujifilm WCL-X100"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "For parts / repair"
+      ],
+      [
+        "Included / excluded",
+        "Lens hood and accessories, as listed"
+      ],
+      [
+        "Disclosed issues",
+        "Internal moisture; disassembly and cleaning required"
       ]
     ],
     "status": "available",
     "itemCondition": "DamagedCondition",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mquqm8ql06ww17"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mquqm8ql06ww17",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mquqm8ql06ww17",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mquqm8qhdk3y6d",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mquqm8qjg07hdb"
+    ],
+    "model": "Fujifilm WCL-X100",
+    "aliases": [
+      "Fuji WCL X100",
+      "WCLX100",
+      "WLC-X100",
+      "เลนส์ WCL-X100 ซ่อม"
+    ],
+    "thaiDescription": "Fujifilm WCL-X100 ขายสำหรับอะไหล่หรือซ่อม มีความชื้นภายใน ต้องถอดทำความสะอาด มีฮูดและอุปกรณ์ตามประกาศ ยืนยันรุ่นและความเข้ากันได้ก่อนซื้อ",
+    "conditionLabel": "For parts / repair",
+    "included": "Lens hood and accessories, as listed",
+    "defects": "Internal moisture; disassembly and cleaning required",
+    "repair": true,
+    "dateModified": "2026-10-25"
   },
   {
     "id": "panasonic-lumix-425mm-f17",
     "category": "lenses",
     "brand": "Panasonic",
-    "name": "Lumix 42.5mm f/1.7 · image stabilized",
+    "name": "Lumix 42.5mm f/1.7 · stabilized",
     "price": 5571,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/56767546838",
@@ -885,27 +1621,59 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/panasonic-lumix-425mm-f17.jpg"
+      "images/shopee/panasonic-lumix-425mm-f17.jpg",
+      "images/shopee/panasonic-lumix-425mm-f17-2.jpg",
+      "images/shopee/panasonic-lumix-425mm-f17-3.jpg",
+      "images/shopee/panasonic-lumix-425mm-f17-4.jpg",
+      "images/shopee/panasonic-lumix-425mm-f17-5.jpg"
     ],
-    "description": "Panasonic Lumix 42.5mm f/1.7 · image stabilized. 42.5mm f/1.7 lens. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Panasonic Lumix 42.5mm f/1.7 lens with image stabilization. The seller describes very light use and storage in a humidity-controlled cabinet. A front cap is included, but the rear cap is missing. Five photographs show the lens; confirm the mount, glass condition and operation before ordering.",
     "details": [
       [
-        "Listing details",
-        "42.5mm f/1.7 lens"
+        "Model",
+        "Panasonic Lumix 42.5mm f/1.7"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Lightly used, as listed"
+      ],
+      [
+        "Included / excluded",
+        "Front lens cap"
+      ],
+      [
+        "Disclosed issues",
+        "Rear lens cap missing"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztd-msuoqkkeez9h54"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztd-msuoqkkeez9h54",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztd-msuoqkkeez9h54",
+      "https://down-th.img.susercontent.com/file/th-11134201-81zte-msuoql67w9oq2d",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztp-msuoqkmk98n557",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztf-msuoql54kbnq0f",
+      "https://down-th.img.susercontent.com/file/th-11134201-81zte-msuoqkxcevpg1f"
+    ],
+    "model": "Panasonic Lumix 42.5mm f/1.7",
+    "aliases": [
+      "Lumix 42.5 f1.7",
+      "Panasonic 42.5 1.7",
+      "เลนส์ Lumix 42.5mm f1.7"
+    ],
+    "thaiDescription": "Panasonic Lumix 42.5mm f/1.7 พร้อมกันสั่น ใช้งานน้อย เก็บในตู้ควบคุมความชื้นตามประกาศ มีฝาหน้า ไม่มีฝาหลัง",
+    "conditionLabel": "Lightly used, as listed",
+    "included": "Front lens cap",
+    "defects": "Rear lens cap missing",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "samsung-nx-18-55-ois",
     "category": "lenses",
     "brand": "Samsung",
-    "name": "NX 18–55mm OIS",
+    "name": "NX 18–55mm OIS · stabilized zoom",
     "price": 3591,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/51563123090",
@@ -913,27 +1681,53 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/samsung-nx-18-55-ois.jpg"
+      "images/shopee/samsung-nx-18-55-ois.jpg",
+      "images/shopee/samsung-nx-18-55-ois-2.jpg",
+      "images/shopee/samsung-nx-18-55-ois-3.jpg",
+      "images/shopee/samsung-nx-18-55-ois-4.jpg"
     ],
-    "description": "Samsung NX 18–55mm OIS. NX lens with OIS. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Samsung NX-mount 18–55mm zoom lens with optical image stabilization. The seller describes it as being in excellent condition without visible issues. The Samsung NX300 camera in this collection is a separate listing. Four photographs show the lens; confirm caps and current operation.",
     "details": [
       [
-        "Listing details",
-        "NX lens with OIS"
+        "Model",
+        "Samsung NX 18–55mm OIS"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Used · excellent condition listed"
+      ],
+      [
+        "Included / excluded",
+        "Lens; confirm caps"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztk-mq3lla8h0fm5b9"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztk-mq3lla8h0fm5b9",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztk-mq3lla8h0fm5b9",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mq3lla8h1u6l9f",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mq3lla8h38r1f5",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztm-mq3lla8h4nbh35"
+    ],
+    "model": "Samsung NX 18–55mm OIS",
+    "aliases": [
+      "Samsung 18-55 OIS",
+      "NX 18 55",
+      "เลนส์ Samsung NX 18-55"
+    ],
+    "thaiDescription": "เลนส์ซูม Samsung NX 18–55mm OIS พร้อมกันสั่น ผู้ขายระบุว่าสภาพดีเยี่ยม กล้อง NX300 แยกขาย ไม่ได้รวมในราคาเลนส์",
+    "conditionLabel": "Used · excellent condition listed",
+    "included": "Lens; confirm caps",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "sigma-30mm-f14-nikon",
     "category": "lenses",
     "brand": "Sigma",
-    "name": "30mm f/1.4 · Nikon F mount",
+    "name": "30mm f/1.4 · Nikon F, boxed",
     "price": 5310,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/42185265369",
@@ -941,27 +1735,55 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/sigma-30mm-f14-nikon.jpg"
+      "images/shopee/sigma-30mm-f14-nikon.jpg",
+      "images/shopee/sigma-30mm-f14-nikon-2.jpg",
+      "images/shopee/sigma-30mm-f14-nikon-3.jpg",
+      "images/shopee/sigma-30mm-f14-nikon-4.jpg",
+      "images/shopee/sigma-30mm-f14-nikon-5.jpg"
     ],
-    "description": "Sigma 30mm f/1.4 · Nikon F mount. Nikon F mount. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Sigma 30mm f/1.4 lens for Nikon F mount, described as new and tested on a camera once. Includes the lens hood, case, original box and papers. Five photographs show the lens and packaging. Confirm the exact version and autofocus compatibility with your Nikon body before ordering.",
     "details": [
       [
-        "Listing details",
-        "Nikon F mount"
+        "Model",
+        "Sigma 30mm f/1.4 Nikon F"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Listed new · tested once"
+      ],
+      [
+        "Included / excluded",
+        "Lens hood, case, original box and papers"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztg-mughl7cd6akq70"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81ztg-mughl7cd6akq70",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztg-mughl7cd6akq70",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztk-mughl7m6d9mwee",
+      "https://down-th.img.susercontent.com/file/th-11134201-81zte-mughl6zy7v9j7c",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztd-mughl6s5twqv2c",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztl-mughl7gs0mx2da"
+    ],
+    "model": "Sigma 30mm f/1.4 Nikon F",
+    "aliases": [
+      "Sigma 30 1.4 Nikon",
+      "Sigma 30mm f1.4 F mount",
+      "เลนส์ Sigma 30mm f1.4 Nikon"
+    ],
+    "thaiDescription": "Sigma 30mm f/1.4 เมาท์ Nikon F ตามประกาศเป็นของใหม่ ทดสอบกับกล้องหนึ่งครั้ง พร้อมฮูด เคส กล่องเดิม และเอกสาร ยืนยันความเข้ากันได้กับกล้องก่อนซื้อ",
+    "conditionLabel": "Listed new · tested once",
+    "included": "Lens hood, case, original box and papers",
+    "defects": "",
+    "repair": false,
+    "itemCondition": "NewCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "sony-minolta-a-mount-lens-set",
     "category": "lenses",
     "brand": "Sony / Minolta",
-    "name": "A-mount lens set · 75–300mm, 135mm & VCL-0437H",
+    "name": "Minolta lenses & Sony converter bundle",
     "price": 1341,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/51506866724",
@@ -969,27 +1791,60 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/sony-minolta-a-mount-lens-set.jpg"
+      "images/shopee/sony-minolta-a-mount-lens-set.jpg",
+      "images/shopee/sony-minolta-a-mount-lens-set-2.jpg",
+      "images/shopee/sony-minolta-a-mount-lens-set-3.jpg",
+      "images/shopee/sony-minolta-a-mount-lens-set-4.jpg",
+      "images/shopee/sony-minolta-a-mount-lens-set-5.jpg"
     ],
-    "description": "Sony / Minolta A-mount lens set · 75–300mm, 135mm & VCL-0437H. Sold as the listed set; confirm exact components and compatibility. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Mixed bundle listed with a Minolta 75–300mm autofocus zoom, a Minolta 135mm f/2.8 with teleconverter, and a Sony VCL-0437H semi-fisheye converter. The seller reports dusty storage and says they appear to work. Confirm every mount, optical condition and required adapter; the VCL attachment should not be assumed to mount directly like an A-mount lens.",
     "details": [
       [
-        "Listing details",
-        "Sold as the listed set; confirm exact components and compatibility"
+        "Model",
+        "Minolta / Sony lens bundle"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Used · compatibility check needed"
+      ],
+      [
+        "Included / excluded",
+        "75–300mm zoom, 135mm with teleconverter, VCL-0437H; adapter not included"
+      ],
+      [
+        "Disclosed issues",
+        "Dusty storage; mounts and adapter requirements must be checked"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mlhp1xuosnwid2"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mlhp1xuosnwid2",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mlhp1xuosnwid2",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztn-mlhp1xurak8xdc",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zti-mlhp1xurq0hw67",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-mlhp1xurrf2cea",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztp-mlhp1xw5qsjo84"
+    ],
+    "model": "Minolta / Sony lens bundle",
+    "aliases": [
+      "Minolta 75-300",
+      "Minolta 135mm f2.8",
+      "Sony VCL-0437H",
+      "เลนส์ Minolta Sony ชุด"
+    ],
+    "thaiDescription": "ชุดเลนส์ Minolta 75–300mm, 135mm f/2.8 พร้อมเทเลคอนเวอร์เตอร์ และ Sony VCL-0437H มีฝุ่นจากการเก็บ ยืนยันเมาท์และอะแดปเตอร์ที่ต้องใช้ของแต่ละชิ้น",
+    "conditionLabel": "Used · compatibility check needed",
+    "included": "75–300mm zoom, 135mm with teleconverter, VCL-0437H; adapter not included",
+    "defects": "Dusty storage; mounts and adapter requirements must be checked",
+    "repair": false,
+    "itemCondition": "UsedCondition",
+    "dateModified": "2026-10-25"
   },
   {
     "id": "voigtlander-septon-50mm-f2",
     "category": "lenses",
     "brand": "Voigtländer",
-    "name": "Septon 50mm f/2",
+    "name": "Septon 50mm f/2 · element separation",
     "price": 8990,
     "currency": "THB",
     "shopeeUrl": "https://shopee.co.th/product/1470634569/54719854182",
@@ -997,20 +1852,46 @@
     "sourceChecked": "2026-10-25",
     "photoKind": "marketplace",
     "photos": [
-      "images/shopee/voigtlander-septon-50mm-f2.jpg"
+      "images/shopee/voigtlander-septon-50mm-f2.jpg",
+      "images/shopee/voigtlander-septon-50mm-f2-2.jpg"
     ],
-    "description": "Voigtländer Septon 50mm f/2. 50mm f/2 lens. See the Shopee listing for the full description, selected options and current availability.",
+    "description": "Voigtländer Septon 50mm f/2 lens with disclosed element separation. The seller reports that it still functions and produces images, but optical restoration would require a skilled specialist and is not guaranteed. Two photographs show the lens. Ask for close-ups of the separation and confirm the exact mount before buying.",
     "details": [
       [
-        "Listing details",
-        "50mm f/2 lens"
+        "Model",
+        "Voigtländer Septon 50mm f/2"
       ],
       [
-        "Price source",
-        "Shopee displayed price, 25 October 2026"
+        "Condition as listed",
+        "Known optical fault"
+      ],
+      [
+        "Included / excluded",
+        "Lens; confirm mount and caps"
+      ],
+      [
+        "Disclosed issues",
+        "Element separation"
       ]
     ],
     "status": "available",
-    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81zth-muq65dvxy61216"
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134201-81zth-muq65dvxy61216",
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134201-81zth-muq65dvxy61216",
+      "https://down-th.img.susercontent.com/file/th-11134201-81ztf-muq65eeslhj759"
+    ],
+    "model": "Voigtländer Septon 50mm f/2",
+    "aliases": [
+      "Voigtlander Septon 2/50",
+      "Voigtlaender Septon 50mm",
+      "เลนส์ Voigtlander Septon 50mm f2"
+    ],
+    "thaiDescription": "Voigtländer Septon 50mm f/2 มีปัญหาชิ้นเลนส์แยกชั้น ผู้ขายระบุว่ายังถ่ายภาพได้ สอบถามภาพตำหนิและเมาท์ ต้องใช้ช่างเฉพาะทางหากต้องการบูรณะ",
+    "conditionLabel": "Known optical fault",
+    "included": "Lens; confirm mount and caps",
+    "defects": "Element separation",
+    "repair": true,
+    "itemCondition": "DamagedCondition",
+    "dateModified": "2026-10-25"
   }
 ]
