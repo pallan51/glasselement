@@ -36,4 +36,4 @@ The first captured shop page supplies 26 new records and photographs/purchase li
 
 Shopee listing photos are stored under `images/shopee/`, with source URLs retained in the catalogue. `photoKind: marketplace` identifies their provenance. Repair/parts/broken labels are preserved, and those records use DamagedCondition in structured data. Full descriptions and additional gallery views remain on Shopee.
 
-The second shop page remains pending because Shopee requires user-completed verification. Do not mark the full shop import complete until that page has been reviewed for additional cameras, lenses and eyewear.
+The second shop page was reviewed after user-completed verification. It adds Tana Gokoro (Kaneko) and Dita Flight sunglasses, each with five saved listing photos and details from the product description. Dita uses its full frontal photograph first. The other active camera/lens/eyewear listings on that page were duplicates; sold-out recommendations, hats and clothing were excluded. Both shop pages have now been reviewed: 35 catalogue items in total, including 30 records linked to Shopee.

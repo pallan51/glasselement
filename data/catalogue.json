@@ -1,5 +1,61 @@
 [
   {
+    "id": "dita-flight-sunglasses",
+    "category": "eyewear",
+    "brand": "Dita",
+    "name": "Flight sunglasses",
+    "price": 2925,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/57706531669",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/th-11134207-81ztc-ml7kdpsjiq6ned",
+    "description": "An older Dita Flight aviator model, listed with a titanium frame and gradient lenses that appear violet or amber-brown from different angles. The listing gives an approximate lens width above 60mm; confirm exact measurements before buying. Five photographs show the frame, lenses and detailing.",
+    "photos": [
+      "images/shopee/dita-flight-sunglasses-3.jpg",
+      "images/shopee/dita-flight-sunglasses.jpg",
+      "images/shopee/dita-flight-sunglasses-2.jpg",
+      "images/shopee/dita-flight-sunglasses-4.jpg",
+      "images/shopee/dita-flight-sunglasses-5.jpg"
+    ],
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztc-ml7kdpsjiq6ned",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-ml7kdprtkmip70",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zth-ml7kdptgho1wc5",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zto-ml7kdpu1ekg2db",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztg-ml7kdps19cegc4"
+    ],
+    "details": [
+      [
+        "Shape",
+        "Full-rim aviator"
+      ],
+      [
+        "Frame material",
+        "Titanium, as listed"
+      ],
+      [
+        "Lens appearance",
+        "Gradient tint; violet to amber-brown appearance"
+      ],
+      [
+        "Lens width",
+        "Approximately over 60mm in the listing; exact measurement unconfirmed"
+      ],
+      [
+        "Condition",
+        "Used; confirm current condition"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "shopeePrice": 2925,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "status": "available",
+    "itemCondition": "UsedCondition"
+  },
+  {
     "id": "eyevan-racing-team-sun",
     "category": "eyewear",
     "brand": "Eyevan",
@@ -115,6 +171,62 @@
       ]
     ],
     "status": "available"
+  },
+  {
+    "id": "tana-gokoro-kaneko-sunglasses",
+    "category": "eyewear",
+    "brand": "Tana Gokoro (Kaneko)",
+    "name": "Sunglasses",
+    "price": 5391,
+    "currency": "THB",
+    "shopeeUrl": "https://shopee.co.th/product/1470634569/54510670919",
+    "sourcePhotoUrl": "https://down-th.img.susercontent.com/file/sg-11134201-823om-mp24wjgd7lzf04",
+    "description": "Tana Gokoro sunglasses by Kaneko, with celluloid frames and an engraved metal bridge. Our Shopee listing describes original Tana Gokoro nose pads and new, non-prescription CR-39 photochromic lenses. Explore five listing photographs and confirm the fit and current condition before buying.",
+    "photos": [
+      "images/shopee/tana-gokoro-kaneko-sunglasses.jpg",
+      "images/shopee/tana-gokoro-kaneko-sunglasses-2.jpg",
+      "images/shopee/tana-gokoro-kaneko-sunglasses-3.jpg",
+      "images/shopee/tana-gokoro-kaneko-sunglasses-4.jpg",
+      "images/shopee/tana-gokoro-kaneko-sunglasses-5.jpg"
+    ],
+    "sourcePhotoUrls": [
+      "https://down-th.img.susercontent.com/file/sg-11134201-823om-mp24wjgd7lzf04",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztl-mocbahntkbgp2d",
+      "https://down-th.img.susercontent.com/file/th-11134207-81zth-mocbahnvtselc4",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztl-mocbahnks9ou72",
+      "https://down-th.img.susercontent.com/file/th-11134207-81ztl-mocbahnfwoox67"
+    ],
+    "details": [
+      [
+        "Frame material",
+        "Celluloid, as listed"
+      ],
+      [
+        "Manufacture",
+        "Handmade in Japan, as listed"
+      ],
+      [
+        "Lenses",
+        "New non-prescription CR-39 photochromic lenses, as listed"
+      ],
+      [
+        "Nose pads",
+        "Original Tana Gokoro pads, as listed"
+      ],
+      [
+        "Condition",
+        "Used frames; confirm current condition"
+      ],
+      [
+        "Price source",
+        "Shopee displayed price, 25 October 2026"
+      ]
+    ],
+    "shopeePrice": 5391,
+    "sourceChecked": "2026-10-25",
+    "photoKind": "marketplace",
+    "status": "available",
+    "itemCondition": "UsedCondition"
   },
   {
     "id": "vuarnet-vl1602-0001",
