@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "shippingPolicy": "Worldwide tracked shipping via Thailand Post. Flat shipping fee: 800 THB per order. Dispatch within 48 hours of payment.",
   "returnsPolicy": "For an incorrect item or damage, contact contact@theglasselement.com within 48 hours of delivery and provide a video recorded while opening the package. Buyer pays return shipping. This reporting policy does not restrict applicable statutory rights or PayPal Buyer Protection.",
   "paymentProvider": "PayPal",
@@ -9,7 +9,8 @@
       "price": 5310,
       "currency": "THB",
       "deliveryEstimate": null,
-      "checkoutVerified": false
+      "checkoutSettingsVerified": true,
+      "maximumQuantity": 1
     }
   },
   "shipping": {
@@ -31,5 +32,6 @@
     "returnPostagePaidBy": "buyer",
     "reportWithinHours": 48
   },
-  "paymentAccountVerified": false
+  "paymentToolsAvailable": true,
+  "settingsReviewedOn": "2026-11-20"
 }

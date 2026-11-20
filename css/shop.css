@@ -51,3 +51,5 @@
 }
 
 .mobile-product-summary{display:none}@media(max-width:600px){.mobile-product-summary{display:block;margin:8px 0 18px}.mobile-product-summary p{font:23px/1.2 var(--serif);margin:0 0 6px}}
+
+.direct-checkout{border:1px solid var(--line);padding:20px;margin:24px 0;scroll-margin-top:20px}.direct-checkout h2{font-size:28px;margin-bottom:16px}.direct-checkout h3{font-size:17px;margin:18px 0 8px}.direct-checkout p{font-size:16px}.direct-checkout .button{font-size:16px}

@@ -1,15 +1,15 @@
 # Minimal direct checkout, with Shopee first
 
-Status: prepared, disabled. No new buying route is live and Google Shopping eligibility has not been established.
+Status: Sigma PayPal checkout enabled. Google Shopping eligibility has not been established. merchant-feed.xml contains only the Sigma direct offer.
 
 ## Owner decisions recorded on 20 November 2026
 
-- PayPal chosen; receiving capability and account country/type are unknown.
+- PayPal checkout settings verified from the owner's screenshot: Sigma 5310 THB, shipping 800 THB, total 6110 THB, maximum quantity one, delivery address required. Checkout seller name Nourishing Capital is disclosed in buying.html. No payment or withdrawal test was performed.
 - Worldwide tracked Thailand Post shipping, flat fee 800 THB. Do not advertise 800 THB as exactly USD 20; no separate fixed USD fee has been finalized.
 - Confirmed return grounds: wrong item or damage, with an unboxing video. Report within 48 hours of delivery; buyer pays return postage. Refund handling remains subject to the transaction and applicable rights. PayPal Buyer Protection is separate and is not removed by a store's video requirement. Clearly disclosed existing faults must remain described on repair listings.
 - Dispatch within 48 hours of payment. This is elapsed hours, not two business days. Destination-dependent delivery estimates remain unknown; do not invent them.
 
-PayPal Thailand's identity-verification help currently requires Thai national ID for personal-account NDID. Do not assume a non-Thai resident can activate such an account. Determine the actual account's country/type and receiving status before choosing next setup steps. Never create an account with false residence details. Official help: https://www.paypal.com/th/cshelp/article/how-do-i-confirm-my-identity-cip-help606?locale.x=en_TH
+The screenshot confirms access to PayPal checkout creation and its visible settings, not a completed receiving transaction. Maximum quantity one is not proof of inventory tracking across purchases. Verify provider stock controls and disable the PayPal link after a sale on either buying route.
 
 The main Shopee buttons stay as they are. A secondary direct purchase section can be enabled for a small, explicit selection of items using a provider-generated fixed-price checkout. This keeps payment and customer records out of this public GitHub repository and avoids a custom server. Use an eligible receiving account and provider-supported currency/countries; account ownership or old PayPal purchases alone do not establish that the account can receive these sales.
 
@@ -22,9 +22,9 @@ The main Shopee buttons stay as they are. A secondary direct purchase section ca
 
 ## Configure and verify
 
-Edit data/direct-checkout.json. Each products entry is keyed by catalogue id and contains url, price, currency, deliveryEstimate and checkoutVerified. The account must generate the real checkout URL; do not substitute an email enquiry, editable donation amount, quote request or Shopee URL.
+Edit data/direct-checkout.json. Each products entry is keyed by catalogue id and contains url, price, currency, optional deliveryEstimate and checkoutSettingsVerified. The account must generate the real checkout URL; do not substitute an email enquiry, editable donation amount, quote request or Shopee URL. paymentToolsAvailable indicates access to checkout creation, not verified receipt of funds. If no delivery estimate is known, the storefront explains this without inventing one; this remains a Google Shopping setup issue.
 
-Keep enabled false until business terms are supplied. When enabled, the builder rejects missing terms, unknown products, unsafe checkout URLs and missing verification. Set checkoutVerified true only after manually checking the real checkout:
+When enabled, the builder rejects missing terms, unknown products, unsafe checkout URLs and unverified checkout settings. checkoutSettingsVerified covers the screenshot's item, price, currency, shipping, quantity and address collection. Before submitting to Google, also check:
 
 1. Exact item, condition, fixed price and currency match the visible direct offer.
 2. Shipping destinations, charges, delivery estimate and any taxes are disclosed before payment. A buyer can enter an international billing address even if shipping is limited.
@@ -39,6 +39,8 @@ Run node --test scripts/direct-checkout.test.mjs, node scripts/build.mjs and nod
 When enabled, configured products use the direct price and the Glass Element landing page in Product/Offer data. The checker verifies this alongside the visible direct checkout. Unconfigured products retain their Shopee offer. Keep any different Shopee price explicitly labelled. Submit only enabled, verified products through Merchant Center; do not submit the rest of the catalogue as direct-purchase inventory.
 
 Set up/claim Merchant Center, configure business details, delivery and returns, provide the correct product identifiers where available, and review account/product diagnostics. Verify checkout and request review only after the changes are live. Free listings do not require starting paid ads, and neither checkout nor a product feed guarantees approval or display.
+
+Data source: https://theglasselement.com/merchant-feed.xml (English). Confirm destination-specific transit estimates for the Thailand Post service before entering delivery promises in Merchant Center. The feed omits unverified GTIN/MPN data and does not claim identifiers do not exist. This session has not configured Merchant Center or tested an actual payment, refund, payment notification or provider inventory reservation.
 
 ## Official references
 
