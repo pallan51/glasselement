@@ -3,7 +3,15 @@
   "shippingPolicy": "Worldwide tracked shipping via Thailand Post. Flat shipping fee: 800 THB per order. Dispatch within 48 hours of payment.",
   "returnsPolicy": "For an incorrect item or damage, contact contact@theglasselement.com within 48 hours of delivery and provide a video recorded while opening the package. Buyer pays return shipping. This reporting policy does not restrict applicable statutory rights or PayPal Buyer Protection.",
   "paymentProvider": "PayPal",
-  "products": {},
+  "products": {
+    "sigma-30mm-f14-nikon": {
+      "url": "https://www.paypal.com/ncp/payment/YL9KRHUTWE9ES",
+      "price": 5310,
+      "currency": "THB",
+      "deliveryEstimate": null,
+      "checkoutVerified": false
+    }
+  },
   "shipping": {
     "carrier": "Thailand Post",
     "tracking": true,
