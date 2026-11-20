@@ -1,8 +1,11 @@
 import fs from 'node:fs/promises';
+import {validateCheckout, checkoutSection, directSale} from "./direct-checkout.mjs";
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const items=JSON.parse(await fs.readFile(path.join(root,'data/catalogue.json'),'utf8'));
+const checkout=JSON.parse(await fs.readFile(path.join(root,"data/direct-checkout.json"),"utf8"));
+validateCheckout(checkout,items);
 const images=JSON.parse(await fs.readFile(path.join(root,'data/image-manifest.json'),'utf8'));
 const origin='https://theglasselement.com';
 const modified='2026-10-25';
@@ -99,7 +102,9 @@ await fs.mkdir(path.join(root,'items'),{recursive:true});
 for(const i of items){
  const url=origin+itemPath(i),label=title(i),sale=offer(i),photoObjects=i.photos.map((p,n)=>pictureSchema(i,p,n));
  const meta=(i.model||label)+' for sale in Thailand. '+money(i)+' '+sale.currency+'. '+(i.repair?i.defects+'. ':i.conditionLabel+'. ')+i.photos.length+' item photos. '+(i.shopeeUrl?'View details and buy on Shopee.':'Enquire with the seller.');
- const schema={'@context':'https://schema.org','@type':'Product','@id':url+'#product',url,name:label,model:i.model||i.name,sku:'TGE-'+i.id,category:categoryNames[i.category],brand:{'@type':'Brand',name:i.brand},description:i.description,image:i.photos.map(absolute),...(i.itemCondition?{itemCondition:'https://schema.org/'+i.itemCondition}:{}),additionalProperty:[['Condition as listed',i.conditionLabel],['Included / excluded',i.included],...(i.defects?[['Disclosed issues',i.defects]]:[])].filter(([,v])=>v).map(([name,value])=>({'@type':'PropertyValue',name,value})),offers:{'@type':'Offer','@id':url+'#offer',url:sale.url,price:sale.price,priceCurrency:sale.currency,availability:'https://schema.org/'+({available:'InStock',reserved:'OutOfStock',sold:'SoldOut'}[i.status]),...(i.itemCondition?{itemCondition:'https://schema.org/'+i.itemCondition}:{}),seller:{'@id':origin+'/#seller'}}};
+ const direct=directSale(checkout,i);
+ const schemaSale=direct?{...direct,url}:sale;
+ const schema={'@context':'https://schema.org','@type':'Product','@id':url+'#product',url,name:label,model:i.model||i.name,sku:'TGE-'+i.id,category:categoryNames[i.category],brand:{'@type':'Brand',name:i.brand},description:i.description,image:i.photos.map(absolute),...(i.itemCondition?{itemCondition:'https://schema.org/'+i.itemCondition}:{}),additionalProperty:[['Condition as listed',i.conditionLabel],['Included / excluded',i.included],...(i.defects?[['Disclosed issues',i.defects]]:[])].filter(([,v])=>v).map(([name,value])=>({'@type':'PropertyValue',name,value})),offers:{'@type':'Offer','@id':url+'#offer',url:schemaSale.url,price:schemaSale.price,priceCurrency:schemaSale.currency,availability:'https://schema.org/'+({available:'InStock',reserved:'OutOfStock',sold:'SoldOut'}[i.status]),...(i.itemCondition?{itemCondition:'https://schema.org/'+i.itemCondition}:{}),seller:{'@id':origin+'/#seller'}}};
  const webPage={'@context':'https://schema.org','@type':'ItemPage','@id':url+'#page',url,name:label+' for sale in Thailand',dateModified:i.dateModified||modified,inLanguage:['en','th'],isPartOf:{'@id':origin+'/#website'},mainEntity:{'@id':url+'#product'},primaryImageOfPage:{'@id':url+'#photo-1'}};
  const mail='mailto:contact@theglasselement.com?subject='+encodeURIComponent('Enquiry: '+label)+'&body='+encodeURIComponent('Hello,\n\nI am interested in '+label+'.\n'+url+'\n\nPlease confirm current availability, condition, included accessories and the total for my destination.\n\nMy country / postcode:\n\nThank you.');
  const facts=[['Model',i.model||i.name],['Listed condition',i.conditionLabel||'Confirm with seller'],...(i.included?[['Included / excluded',i.included]]:[]),...(i.defects?[['Disclosed issues',i.defects]]:[]),...i.details.filter(([k])=>!['Model','Condition as listed','Included / excluded','Disclosed issues','Listing details','Price source'].includes(k)),['Location','Thailand']];
@@ -118,6 +123,7 @@ for(const i of items){
  '<p class="description">'+e(i.description)+'</p><p class="thai-summary" lang="th">'+e(i.thaiDescription||'')+'</p>'+
  '<dl class="facts">'+facts.map(([k,v])=>'<div><dt>'+e(k)+'</dt><dd>'+e(v)+'</dd></div>').join('')+'</dl>'+
  '<p class="small">Listing details checked: 25 October 2026.'+(i.shopeeUrl?' Shopee listing price: '+money(i)+' THB; promotions and options may change.':'')+'</p>'+
+ checkoutSection(checkout,i,e)+
  (i.aliases?.length?'<p class="model-aliases"><strong>Other model names / spellings:</strong> '+i.aliases.map(e).join(' · ')+'</p>':'')+
  '<div class="item-actions"><button class="button secondary copy-button" type="button" data-copy="url">Copy item link</button><a class="text-link" href="/buying.html">Buying, delivery &amp; contact</a></div><span id="copy-result" class="copy-result" role="status"></span></section></div>'+
  '<section class="product-faq"><p class="eyebrow">Questions before buying</p><h2>About this '+(i.category==='eyewear'?'piece':i.category==='lenses'?'lens':'camera')+'</h2>'+

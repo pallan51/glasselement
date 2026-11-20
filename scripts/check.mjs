@@ -1,9 +1,12 @@
+import {validateCheckout,directSale} from "./direct-checkout.mjs";
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const data=JSON.parse(await fs.readFile(path.join(root,'data/catalogue.json'),'utf8'));
+const checkout=JSON.parse(await fs.readFile(path.join(root,"data/direct-checkout.json"),"utf8"));
+validateCheckout(checkout,data);
 const imageData=JSON.parse(await fs.readFile(path.join(root,'data/image-manifest.json'),'utf8'));
 const escape=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const origin='https://theglasselement.com';
@@ -21,9 +24,13 @@ for(const i of data){
  const schema=[...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(m=>JSON.parse(m[1]));
  const product=schema.find(x=>x['@type']==='Product');
  assert(product,'Missing product schema');
- assert.equal(product.offers.price,sale.price);
- assert.equal(product.offers.priceCurrency,sale.currency);
- assert.equal(product.offers.url,sale.url);
+ const direct=directSale(checkout,i),expected=direct?{...direct,url:origin+"/items/"+i.id+".html"}:sale;
+ assert.equal(product.offers.price,expected.price);
+ assert.equal(product.offers.priceCurrency,expected.currency);
+ assert.equal(product.offers.url,expected.url);
+ if(direct)assert(html.includes(escape(direct.price.toLocaleString("en-US")+" "+direct.currency)),"Visible direct price mismatch");
+ if(direct&&i.status==="available")assert(html.includes(escape(direct.url)));
+
  assert(html.includes((sale.currency==='THB'?'฿':'$')+sale.price.toLocaleString('en-US')+'<small>'+sale.currency+'</small>'),'Visible / structured price mismatch');
  assert(html.includes('<h1>'+escape(i.brand+' '+i.name)+'</h1>'),'Product H1 lacks exact brand and model');
  assert(html.includes('lang="th"'),'Missing Thai text');
