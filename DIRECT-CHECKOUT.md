@@ -6,8 +6,8 @@ Status: prepared, disabled. No new buying route is live and Google Shopping elig
 
 - PayPal chosen; receiving capability and account country/type are unknown.
 - Worldwide tracked Thailand Post shipping, flat fee 800 THB. Do not advertise 800 THB as exactly USD 20; no separate fixed USD fee has been finalized.
-- Requested return grounds: wrong item or damage, with an unboxing video. Saved as a draft; reporting deadline, return postage and refund handling are unresolved. PayPal Buyer Protection is separate and is not removed by a store's video requirement. Clearly disclosed existing faults must remain described on repair listings.
-- Dispatch time and destination-dependent delivery estimates remain unknown. Do not promise them without confirmation.
+- Confirmed return grounds: wrong item or damage, with an unboxing video. Report within 48 hours of delivery; buyer pays return postage. Refund handling remains subject to the transaction and applicable rights. PayPal Buyer Protection is separate and is not removed by a store's video requirement. Clearly disclosed existing faults must remain described on repair listings.
+- Dispatch within 48 hours of payment. This is elapsed hours, not two business days. Destination-dependent delivery estimates remain unknown; do not invent them.
 
 PayPal Thailand's identity-verification help currently requires Thai national ID for personal-account NDID. Do not assume a non-Thai resident can activate such an account. Determine the actual account's country/type and receiving status before choosing next setup steps. Never create an account with false residence details. Official help: https://www.paypal.com/th/cshelp/article/how-do-i-confirm-my-identity-cip-help606?locale.x=en_TH
 
@@ -16,8 +16,8 @@ The main Shopee buttons stay as they are. A secondary direct purchase section ca
 ## Information needed from the owner
 
 - Receiving payment provider/account and its generated product checkout links. No passwords or secret keys belong in chat, HTML or this repository.
-- Destination countries, delivery charge(s), dispatch time and delivery estimate.
-- Actual direct-sale returns/refunds terms, including how returns work and who pays return postage.
+- Destination-dependent delivery estimates (worldwide tracked Thailand Post, 800 THB fee and dispatch within 48 hours are confirmed).
+- Return/refund handling: wrong item or damage with unboxing video, reported within 48 hours; buyer pays return postage. Do not present this as limiting statutory or PayPal rights.
 - Direct prices and which products to offer. Existing Shopee promotions are not automatically the direct price. Product options must represent the exact item shown.
 
 ## Configure and verify
