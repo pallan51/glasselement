@@ -1,6 +1,9 @@
 // Public configuration only. Never put credentials or customer records here.
 export function validateCheckout(config, items) {
   if (!config.enabled) return;
+  if (config.paymentAccountVerified === false) throw new Error('Payment receiving account has not been verified');
+  if (config.returns && config.returns.status !== 'final') throw new Error('Return terms are still a draft');
+  if (config.shipping && (!Number.isInteger(config.shipping.dispatchBusinessDays) || config.shipping.dispatchBusinessDays < 0)) throw new Error('Confirm dispatch time before enabling checkout');
   for (const key of ['shippingPolicy', 'returnsPolicy', 'paymentProvider']) {
     if (typeof config[key] !== 'string' || !config[key].trim()) throw new Error('Direct checkout requires ' + key);
   }

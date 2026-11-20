@@ -1,7 +1,27 @@
 {
   "enabled": false,
-  "shippingPolicy": "",
-  "returnsPolicy": "",
-  "paymentProvider": "",
-  "products": {}
+  "shippingPolicy": "Worldwide tracked shipping via Thailand Post. Flat shipping fee: 800 THB per order.",
+  "returnsPolicy": "Draft: Returns for an incorrect item or damage, supported by a video recorded while opening the package. Reporting deadline, return postage and refund handling remain to be confirmed.",
+  "paymentProvider": "PayPal",
+  "products": {},
+  "shipping": {
+    "carrier": "Thailand Post",
+    "tracking": true,
+    "coverage": "worldwide",
+    "fee": 800,
+    "currency": "THB",
+    "dispatchBusinessDays": null,
+    "deliveryEstimate": null
+  },
+  "returns": {
+    "status": "draft",
+    "reasons": [
+      "incorrect item",
+      "damage"
+    ],
+    "unboxingVideoRequired": true,
+    "reportWithinDays": null,
+    "returnPostagePaidBy": null
+  },
+  "paymentAccountVerified": false
 }

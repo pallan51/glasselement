@@ -31,3 +31,8 @@ test('policy text is escaped rather than executed',()=>{
   const c=fixture();c.returnsPolicy='<script>alert(1)</script>';
   assert(!checkoutSection(c,item,escape).includes('<script>'));
 });
+test('unverified receiving accounts and unfinished business terms block activation',()=>{
+  for(const pending of [{paymentAccountVerified:false},{returns:{status:'draft'}},{shipping:{dispatchBusinessDays:null}}]){
+    assert.throws(()=>validateCheckout({...fixture(),...pending},[item]));
+  }
+});
